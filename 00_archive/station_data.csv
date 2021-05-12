@@ -1,0 +1,894 @@
+,Station,Tube Line,Transport Zone,Address,Longitude,Latitude
+0,Abbey Road,Overground line,Zone 3,"London E15 3EB, UK",0.003723371,51.53195199
+1,Abbey Wood,Overground line,Zone 4,"Abbey Wood, London SE2, UK",0.12027197,51.4907841
+2,Acton Central,Overground line,Zone 2,"Churchfield Rd, Acton, London W3 6BS, UK",-0.263430199,51.50875778
+3,Acton Main Line,Overground line,Zone 3,"Acton, London W3, UK",-0.267689952,51.51688693
+4,Acton Town,District line,Zone 3,"Gunnersbury Ln, Acton, London W3 8HN, UK",-0.280302701,51.50307144
+5,Acton Town,Piccadilly line,Zone 3,"Gunnersbury Ln, Acton, London W3 8HN, UK",-0.280302701,51.50307144
+6,Addington Village,Overground line,Zone 3,"Croydon CR0 9BA, UK",-0.0326651,51.35623859
+7,Addington Village,Overground line,Zone 4,"Croydon CR0 9BA, UK",-0.0326651,51.35623859
+8,Addington Village,Overground line,Zone 5,"Croydon CR0 9BA, UK",-0.0326651,51.35623859
+9,Addington Village,Overground line,Zone 6,"Croydon CR0 9BA, UK",-0.0326651,51.35623859
+10,Addiscombe,Overground line,Zone 3,"Croydon CR0 7AA, UK",-0.073213283,51.37980829
+11,Addiscombe,Overground line,Zone 4,"Croydon CR0 7AA, UK",-0.073213283,51.37980829
+12,Addiscombe,Overground line,Zone 5,"Croydon CR0 7AA, UK",-0.073213283,51.37980829
+13,Addiscombe,Overground line,Zone 6,"Croydon CR0 7AA, UK",-0.073213283,51.37980829
+14,Albany Park,Overground line,Zone 5,"Bexley DA14 4PF, UK",0.126444638,51.43581561
+15,Aldgate,Circle line (London Underground),Zone 1,"London, UK",-0.075626913,51.51434238
+16,Aldgate,Metropolitan line,Zone 1,"London, UK",-0.075626913,51.51434238
+17,Aldgate East,District line,Zone 1,"London E1 7PU, UK",-0.073001463,51.51508162
+18,Aldgate East,Hammersmith & City line,Zone 1,"London E1 7PU, UK",-0.073001463,51.51508162
+19,Alexandra Palace,Overground line,Zone 3,"London N22, UK",-0.120148972,51.59826282
+20,All Saints,Overground line,Zone 2,"Poplar, London E14 0EH, UK",-0.012624885,51.51047692
+21,Alperton,Piccadilly line,Zone 4,"Alperton, Wembley HA0 4LU, UK",-0.299515759,51.54120927
+22,Amersham,Metropolitan line,Zone 9,"Amersham HP6 5AZ, UK",-0.606513789,51.67412932
+23,Ampere Way,Overground line,Zone 3,"Croydon CR0 3JX, UK",-0.123636799,51.38229942
+24,Ampere Way,Overground line,Zone 4,"Croydon CR0 3JX, UK",-0.123636799,51.38229942
+25,Ampere Way,Overground line,Zone 5,"Croydon CR0 3JX, UK",-0.123636799,51.38229942
+26,Ampere Way,Overground line,Zone 6,"Croydon CR0 3JX, UK",-0.123636799,51.38229942
+27,Anerley,Overground line,Zone 4,"Anerley, London, UK",-0.0651371,51.41251672
+28,Angel,Northern line,Zone 1,"Islington, London N1 8XX, UK",-0.105581449,51.53296802
+29,Angel Road,Overground line,Zone 4,"London N18 3AH, UK",-0.048732919,51.61242032
+30,Archway,Northern line,Zone 2,"Archway, London of Freedom#8573311~!#, UK",-0.135121577,51.56549053
+31,Archway,Northern line,Zone 3,"Archway, London of Freedom#8573311~!#, UK",-0.135121577,51.56549053
+32,Arena,Overground line,Zone 3,"Albert Rd, London SE25 4RY, UK",-0.05831855,51.39152275
+33,Arena,Overground line,Zone 4,"Albert Rd, London SE25 4RY, UK",-0.05831855,51.39152275
+34,Arena,Overground line,Zone 5,"Albert Rd, London SE25 4RY, UK",-0.05831855,51.39152275
+35,Arena,Overground line,Zone 6,"Albert Rd, London SE25 4RY, UK",-0.05831855,51.39152275
+36,Arnos Grove,Piccadilly line,Zone 4,"Arnos Grove, London N11, UK",-0.134270219,51.61623014
+37,Arsenal,Piccadilly line,Zone 2,"London N5 1LP, London of Freedom#8573311~!#, UK",-0.105499934,51.55854138
+38,Avenue Road,Overground line,Zone 3,"Beckenham BR3 4NJ, UK",-0.049446937,51.40679798
+39,Avenue Road,Overground line,Zone 4,"Beckenham BR3 4NJ, UK",-0.049446937,51.40679798
+40,Avenue Road,Overground line,Zone 5,"Beckenham BR3 4NJ, UK",-0.049446937,51.40679798
+41,Avenue Road,Overground line,Zone 6,"Beckenham BR3 4NJ, UK",-0.049446937,51.40679798
+42,Baker Street,Bakerloo line,Zone 1,"Marylebone Rd, Marylebone, London NW1 5LJ, UK",-0.156904194,51.52312962
+43,Baker Street,Circle line (London Underground),Zone 1,"Marylebone Rd, Marylebone, London NW1 5LJ, UK",-0.156904194,51.52312962
+44,Baker Street,Hammersmith & City line,Zone 1,"Marylebone Rd, Marylebone, London NW1 5LJ, UK",-0.156904194,51.52312962
+45,Baker Street,Jubilee line,Zone 1,"Marylebone Rd, Marylebone, London NW1 5LJ, UK",-0.156904194,51.52312962
+46,Baker Street,Metropolitan line,Zone 1,"Marylebone Rd, Marylebone, London NW1 5LJ, UK",-0.156904194,51.52312962
+47,Balham,Northern line,Zone 3,"Balham, London SW12 9AY, UK",-0.152685163,51.44318256
+48,Bank,Central line (London Underground),Zone 1,"Princes St, London EC3V 3LA, UK",-0.089000124,51.51334706
+49,Bank,Circle line (London Underground),Zone 1,"Princes St, London EC3V 3LA, UK",-0.089000124,51.51334706
+50,Bank,District line,Zone 1,"Princes St, London EC3V 3LA, UK",-0.089000124,51.51334706
+51,Bank,Northern line,Zone 1,"Princes St, London EC3V 3LA, UK",-0.089000124,51.51334706
+52,Bank,Waterloo & City line,Zone 1,"Princes St, London EC3V 3LA, UK",-0.089000124,51.51334706
+53,Banstead,Overground line,Zone 6,"Banstead SM7 1PZ, UK",-0.213132336,51.32929312
+54,Barbican,Circle line (London Underground),Zone 1,"Barbican, London, UK",-0.097721579,51.52021528
+55,Barbican,Hammersmith & City line,Zone 1,"Barbican, London, UK",-0.097721579,51.52021528
+56,Barbican,Metropolitan line,Zone 1,"Barbican, London, UK",-0.097721579,51.52021528
+57,Barking,District line,Zone 4,"Station, Station Parade, Barking IG11 8TU, UK",0.08083161,51.53952111
+58,Barking,Hammersmith & City line,Zone 4,"Station, Station Parade, Barking IG11 8TU, UK",0.08083161,51.53952111
+59,Barkingside,Central line (London Underground),Zone 4,"Barkingside, Ilford IG6 2DE, UK",0.08847664,51.58585061
+60,Barnehurst,Overground line,Zone 6,"Barnehurst, Bexleyheath DA7 6HQ, UK",0.160948022,51.46478029
+61,Barnes,Overground line,Zone 3,"London SW13 0HT, UK",-0.242033062,51.46712777
+62,Barnes Bridge,Overground line,Zone 3,"0NL, Barnes Railway Bridge, London W4 2SH, UK",-0.252362617,51.47222805
+63,Barons Court,District line,Zone 2,"Hammersmith, London W14 9EA, UK",-0.213430145,51.49022868
+64,Barons Court,Piccadilly line,Zone 2,"Hammersmith, London W14 9EA, UK",-0.213430145,51.49022868
+65,Battersea Park,Overground line,Zone 2,"Battersea, London SW11 4NJ, UK",-0.148123762,51.47731832
+66,Battersea Power Station,Overground line,Zone 1,"Battersea Park Rd, Nine Elms, London SW8 4BH, UK",-0.142001353,51.47949657
+67,Bayswater,Circle line (London Underground),Zone 1,"Queensway, Bayswater, London W2 4RH, UK",-0.187901574,51.51211129
+68,Bayswater,District line,Zone 1,"Queensway, Bayswater, London W2 4RH, UK",-0.187901574,51.51211129
+69,Beckenham Hill,Overground line,Zone 4,"London SE6 3AL, UK",-0.016495762,51.42462606
+70,Beckenham Junction,Overground line,Zone 4,"Beckenham BR3, UK",-0.025701739,51.41094164
+71,Beckenham Road,Overground line,Zone 3,"Beckenham BR3 4RR, UK",-0.043391922,51.40952975
+72,Beckenham Road,Overground line,Zone 4,"Beckenham BR3 4RR, UK",-0.043391922,51.40952975
+73,Beckenham Road,Overground line,Zone 5,"Beckenham BR3 4RR, UK",-0.043391922,51.40952975
+74,Beckenham Road,Overground line,Zone 6,"Beckenham BR3 4RR, UK",-0.043391922,51.40952975
+75,Beckton,Overground line,Zone 3,"London E6 6LD, UK",0.061525297,51.51437663
+76,Beckton Park,Overground line,Zone 3,"Sidcup, London E6 5NE, UK",0.054821939,51.50890079
+77,Becontree,District line,Zone 5,"Gale St, Dagenham RM9 4TP, UK",0.126880292,51.53958541
+78,Beddington Lane,Overground line,Zone 3,"Mitcham CR4, UK",-0.142138434,51.38923988
+79,Beddington Lane,Overground line,Zone 4,"Mitcham CR4, UK",-0.142138434,51.38923988
+80,Beddington Lane,Overground line,Zone 5,"Mitcham CR4, UK",-0.142138434,51.38923988
+81,Beddington Lane,Overground line,Zone 6,"Mitcham CR4, UK",-0.142138434,51.38923988
+82,Belgrave Walk,Overground line,Zone 3,"Mitcham CR4 3QE, UK",-0.178496474,51.40096165
+83,Belgrave Walk,Overground line,Zone 4,"Mitcham CR4 3QE, UK",-0.178496474,51.40096165
+84,Belgrave Walk,Overground line,Zone 5,"Mitcham CR4 3QE, UK",-0.178496474,51.40096165
+85,Belgrave Walk,Overground line,Zone 6,"Mitcham CR4 3QE, UK",-0.178496474,51.40096165
+86,Bellingham,Overground line,Zone 3,"Bellingham, London SE6 3BU, UK",-0.02041177,51.43386489
+87,Belmont,Overground line,Zone 5,"Station Approach, Belmont, Sutton SM2 6BH, UK",-0.199489253,51.34411992
+88,Belsize Park,Northern line,Zone 2,"Haverstock Hill, London NW3 2AL, UK",-0.163974493,51.55019088
+89,Belvedere,Overground line,Zone 5,"Belvedere DA17 6JW, UK",0.152033792,51.491959
+90,Bermondsey,Jubilee line,Zone 2,"Distrct of Freedom#8573311~!#, Jamaica Rd, Bermondsey, London SE16 4SN, UK",-0.06433009,51.49796078
+91,Berrylands,Overground line,Zone 5,"Chiltern Dr, Surbiton, Kingston upon Thames KT5 8LS, UK",-0.280321477,51.39876841
+92,Bethnal Green,Central line (London Underground),Zone 2,"Three Colts Ln, London E2 6JL, UK",-0.055392112,51.52719174
+93,Bethnal Green Rail,Overground line,Zone 2,"Three Colts Ln, London E2 6JL, UK",-0.060013743,51.52428274
+94,Bexley,Overground line,Zone 6,"Bexley DA5, UK",0.148203913,51.44081453
+95,Bexleyheath,Overground line,Zone 5,"Bexleyheath, UK",0.133362965,51.46354996
+96,Bickley,Overground line,Zone 5,"Southborough Rd, Bromley BR1 2EB, UK",0.044304032,51.40037957
+97,Birkbeck,Overground line,Zone 4,"Elmers End Rd, Birkbeck, Beckenham BR3 4TA, UK",-0.056286236,51.40386309
+98,Blackfriars,Circle line (London Underground),Zone 1,"London EC4V 4DD, UK",-0.102995385,51.51158693
+99,Blackfriars,District line,Zone 1,"London EC4V 4DD, UK",-0.102995385,51.51158693
+100,Blackheath,Overground line,Zone 3,"Blackheath, London, UK",0.008336595,51.46540801
+101,Blackhorse Lane,Overground line,Zone 3,"8A Tenterden Gardens, Croydon CR0 6NL, UK",-0.070533948,51.38474618
+102,Blackhorse Lane,Overground line,Zone 4,"8A Tenterden Gardens, Croydon CR0 6NL, UK",-0.070533948,51.38474618
+103,Blackhorse Lane,Overground line,Zone 5,"8A Tenterden Gardens, Croydon CR0 6NL, UK",-0.070533948,51.38474618
+104,Blackhorse Lane,Overground line,Zone 6,"8A Tenterden Gardens, Croydon CR0 6NL, UK",-0.070533948,51.38474618
+105,Blackhorse Road,Victoria line,Zone 3,"E17, 665 Forest Rd, Walthamstow, London E17 6JT, UK",-0.039625712,51.58577663
+106,Blackwall,Overground line,Zone 2,"Poplar, London E14, UK",-0.007235166,51.50783154
+107,Bond Street,Central line (London Underground),Zone 1,"Oxford St, Mayfair, London W1R 1FE, UK",-0.14961361,51.51379752
+108,Bond Street,Jubilee line,Zone 1,"Oxford St, Mayfair, London W1R 1FE, UK",-0.14961361,51.51379752
+109,Borough,Northern line,Zone 1,"London SE1, UK",-0.094197323,51.50104887
+110,Boston Manor,Piccadilly line,Zone 4,"W7, UK",-0.324747189,51.49576554
+111,Bounds Green,Piccadilly line,Zone 3,"8 Blanchland Rd, London, Morden SM4, UK",-0.124177066,51.60703192
+112,Bounds Green,Piccadilly line,Zone 4,"8 Blanchland Rd, London, Morden SM4, UK",-0.124177066,51.60703192
+113,Bow Church,Overground line,Zone 2,"Bow, London E3 4DS, UK",-0.020499899,51.5276152
+114,Bow Road,District line,Zone 2,"68, Brodick House, Saxon Rd, Bow, London E3 5HJ, UK",-0.024359591,51.52704181
+115,Bow Road,Hammersmith & City line,Zone 2,"68, Brodick House, Saxon Rd, Bow, London E3 5HJ, UK",-0.024359591,51.52704181
+116,Bowes Park,Overground line,Zone 3,"Bounds Green, London N22 8YY, UK",-0.119792219,51.60724951
+117,Bowes Park,Overground line,Zone 4,"Bounds Green, London N22 8YY, UK",-0.119792219,51.60724951
+118,Brent Cross,Northern line,Zone 3,"London, UK",-0.213335841,51.57659922
+119,Brentford,Overground line,Zone 4,"Brentford TW8, UK",-0.309622537,51.48753631
+120,Brentwood,Overground line,Zone 7,"Warley, Brentwood CM14 4EW, UK",0.299672816,51.61361034
+121,Brimsdown,Overground line,Zone 5,"Brimsdown, Enfield EN3, UK",-0.031092277,51.65524461
+122,Brixton,Victoria line,Zone 2,"Coldharbour, London SW9 8HX, UK",-0.114552098,51.4627368
+123,Brockley,Overground line,Zone 2,"Coulgate St, Brockley, London SE4 2RW, UK",-0.037748251,51.46474966
+124,Bromley North,Overground line,Zone 4,"Bromley BR1, UK",0.017235452,51.40894231
+125,Bromley South,Overground line,Zone 5,"High St, Bromley BR1 1LX, UK",0.01735958,51.40000129
+126,Bromley-by-Bow,District line,Zone 2,"Blackwall Tunnel Northern Approach, London E3 3JJ, UK",-0.011682374,51.5248402
+127,Bromley-by-Bow,Hammersmith & City line,Zone 2,"Blackwall Tunnel Northern Approach, London E3 3JJ, UK",-0.011682374,51.5248402
+128,Bromley-by-Bow,District line,Zone 3,"Blackwall Tunnel Northern Approach, London E3 3JJ, UK",-0.011682374,51.5248402
+129,Bromley-by-Bow,Hammersmith & City line,Zone 3,"Blackwall Tunnel Northern Approach, London E3 3JJ, UK",-0.011682374,51.5248402
+130,Brondesbury,Overground line,Zone 2,"Kilburn, London NW6 7QB, UK",-0.202838486,51.54526236
+131,Brondesbury Park,Overground line,Zone 2,"213A Chevening Rd, Queen's Park, London NW6 6RP, UK",-0.210473947,51.54032537
+132,Broxbourne,Overground line,Zone 9,"Broxbourne EN10 7AW, UK",-0.011024084,51.74701557
+133,Bruce Grove,Overground line,Zone 3,"Tottenham, London N17 6QX, UK",-0.07039899,51.59401125
+134,Buckhurst Hill,Central line (London Underground),Zone 5,"Buckhurst Hill IG9, UK",0.046712541,51.62657666
+135,Burnt Oak,Northern line,Zone 4,"Watling Ave, Burnt Oak, Edgware HA8 0LA, UK",-0.264330712,51.60255191
+136,Bush Hill Park,Overground line,Zone 5,"Enfield EN1 1BA, UK",-0.069280413,51.64148196
+137,Bushey,Overground line,Zone 8,"Pinner Rd, Watford WD19 4EA, UK",-0.384721541,51.64554416
+138,Caledonian Road,Piccadilly line,Zone 2,"Caledonian Rd, London N7 9BA, UK",-0.118360862,51.54788544
+139,Caledonian Road and Barnsbury,Overground line,Zone 2,"London, UK",-0.115204857,51.54328458
+140,Cambridge Heath,Overground line,Zone 2,"Cambridge Heath, London E2, UK",-0.057203201,51.53205976
+141,Camden Road,Overground line,Zone 2,"London NW1 9LS, UK",-0.139203113,51.54185123
+142,Camden Town,Northern line,Zone 2,"Camden Town, London NW1 8QL, UK",-0.142452381,51.53996935
+143,Canada Water,Jubilee line,Zone 2,"Deal Porters Way Surrey Quays, Rotherhithe, London SE16, UK",-0.050807121,51.49816841
+144,Canary Wharf,Jubilee line,Zone 2,"Canary Wharf, London E14 5AJ, UK",-0.01946684,51.5035784
+145,Canning Town,Jubilee line,Zone 3,"Silvertown Way, Canning Town, London E16 1DQ, UK",0.008305633,51.51387029
+146,Cannon Street,Circle line (London Underground),Zone 1,"Cannon St, London EC4N 6AP, UK",-0.090250527,51.51136209
+147,Cannon Street,District line,Zone 1,"Cannon St, London EC4N 6AP, UK",-0.090250527,51.51136209
+148,Canonbury,Overground line,Zone 2,"Wallace Rd, Mildmay Ward, London N1 2PG, UK",-0.092574196,51.54818839
+149,Canons Park,Jubilee line,Zone 5,"Edgware HA8, UK",-0.294391597,51.60765057
+150,Carpenders Park,Overground line,Zone 7,"South Oxhey, Watford WD19 7DT, UK",-0.385829324,51.62818672
+151,Carshalton,Overground line,Zone 5,"Carshalton SM5 2HT, UK",-0.166398328,51.36842637
+152,Carshalton Beeches,Overground line,Zone 5,"Carshalton Beeches, Carshalton, UK",-0.169496326,51.35738684
+153,Castle Bar Park,Overground line,Zone 4,"London W7, UK",-0.331504076,51.52297367
+154,Caterham,Overground line,Zone 6,"station, Station Ave, Caterham CR3 6LB, UK",-0.078607299,51.28216282
+155,Catford,Overground line,Zone 3,"Catford, London SE6 4XS, UK",-0.026538499,51.44426491
+156,Catford Bridge,Overground line,Zone 3,"Catford Bridge, Catford, London SE6 4RE, UK",-0.024821876,51.44469463
+157,Centrale,Overground line,Zone 3,"67 Tamworth Rd, Croydon CR0 1XW, UK",-0.103888104,51.37576747
+158,Centrale,Overground line,Zone 4,"67 Tamworth Rd, Croydon CR0 1XW, UK",-0.103888104,51.37576747
+159,Centrale,Overground line,Zone 5,"67 Tamworth Rd, Croydon CR0 1XW, UK",-0.103888104,51.37576747
+160,Centrale,Overground line,Zone 6,"67 Tamworth Rd, Croydon CR0 1XW, UK",-0.103888104,51.37576747
+161,Chadwell Heath,Overground line,Zone 5,"Dagenham, Romford RM6 4BU, UK",0.128901112,51.56804688
+162,Chafford Hundred,Overground line,Zone 7,"Chafford Hundred, Grays RM16 6QQ, UK",0.287475701,51.4855545
+163,Chalfont and Latimer,Metropolitan line,Zone 8,"Little Chalfont, Amersham HP6 6RZ, UK",-0.561067777,51.66790748
+164,Chalk Farm,Northern line,Zone 2,"Chalk Farm, London NW3 2BP, UK",-0.153733071,51.54414909
+165,Chancery Lane,Central line (London Underground),Zone 1,"Holborn, London WC1V 6DR, UK",-0.111962027,51.51849402
+166,Charing Cross,Bakerloo line,Zone 1,"Charing Cross, London WC2N 5DR, UK",-0.124802938,51.50835863
+167,Charing Cross,Northern line,Zone 1,"Charing Cross, London WC2N 5DR, UK",-0.124802938,51.50835863
+168,Charlton,Overground line,Zone 3,"London SE7 7QG, UK",0.030941645,51.48683499
+169,Cheam,Overground line,Zone 5,"Station Approach, Upper Mulgrave Rd, Sutton SM2 7AJ, UK",-0.214211284,51.35546024
+170,Chelsfield,Overground line,Zone 6,"Chelsfield, UK",0.10898412,51.35626458
+171,Chesham,Metropolitan line,Zone 9,"Station Rd, Chesham HP5 1BP, UK",-0.611429657,51.70538002
+172,Cheshunt,Overground line,Zone 8,"Cheshunt, Waltham Cross EN8 9AQ, UK",-0.023887415,51.70287331
+173,Chessington North,Overground line,Zone 6,"Chessington KT9 2EX, UK",-0.300476129,51.36424344
+174,Chessington South,Overground line,Zone 6,"Chessington KT9 2JT, UK",-0.307089021,51.35670453
+175,Chigwell,Central line (London Underground),Zone 4,"Station Rd, Chigwell IG7 6NT, UK",0.076179215,51.61785787
+176,Chingford,Overground line,Zone 5,"Chingford, London E4 6AL, UK",0.009514326,51.63325337
+177,Chipstead,Overground line,Zone 6,"Chipstead, Coulsdon CR5 3TD, UK",-0.169445869,51.30927498
+178,Chislehurst,Overground line,Zone 5,"Chislehurst, UK",0.057491821,51.40559841
+179,Chiswick,Overground line,Zone 3,"Chiswick, London W4, UK",-0.267013322,51.48078149
+180,Chiswick Park,District line,Zone 3,"Chiswick, London W4 5EB, UK",-0.267736922,51.49437071
+181,Chorleywood,Metropolitan line,Zone 7,"Chorleywood, Rickmansworth WD3 5ND, UK",-0.518333927,51.65426593
+182,Church Street,Overground line,Zone 3,"Croydon CR0 1RN, UK",-0.104346829,51.37370656
+183,Church Street,Overground line,Zone 4,"Croydon CR0 1RN, UK",-0.104346829,51.37370656
+184,Church Street,Overground line,Zone 5,"Croydon CR0 1RN, UK",-0.104346829,51.37370656
+185,Church Street,Overground line,Zone 6,"Croydon CR0 1RN, UK",-0.104346829,51.37370656
+186,City Thameslink,Overground line,Zone 1,"Ludgate Hill, London EC4M 7JH, UK",-0.103618449,51.51393507
+187,Clapham Common,Northern line,Zone 2,"The Pavement, Clapham Town, London SW4 0HY, UK",-0.138314902,51.46180367
+188,Clapham High Street,Overground line,Zone 2,"Clapham Town, London SW4 6DQ, UK",-0.132464503,51.46546951
+189,Clapham Junction,Overground line,Zone 2,"Clapham Junction, London SW11, UK",-0.170315002,51.46436678
+190,Clapham North,Northern line,Zone 2,"Clapham High St, Larkhall, London SW4 7TS, UK",-0.129910063,51.46491621
+191,Clapham South,Northern line,Zone 2,"Balham Hill, Balham, London SW12 9DU, UK",-0.14798407,51.45267649
+192,Clapham South,Northern line,Zone 3,"Balham Hill, Balham, London SW12 9DU, UK",-0.14798407,51.45267649
+193,Clapton,Overground line,Zone 2,"Clapton, London E5 9JP, UK",-0.057489458,51.56156909
+194,Clock House,Overground line,Zone 4,"Beckenham BR3 4GS, UK",-0.040702093,51.40854056
+195,Cockfosters,Piccadilly line,Zone 5,"Barnet EN4 0DZ, UK",-0.149916711,51.65202448
+196,Colindale,Northern line,Zone 4,"London NW9 5HJ, UK",-0.250287544,51.59523052
+197,Colliers Wood,Northern line,Zone 3,"Colliers Wood, London SW19, UK",-0.1774151,51.41875919
+198,Coombe Lane,Overground line,Zone 3,"Coombe Rd, Croydon CR0 5RF, UK",-0.059531571,51.35978931
+199,Coombe Lane,Overground line,Zone 4,"Coombe Rd, Croydon CR0 5RF, UK",-0.059531571,51.35978931
+200,Coombe Lane,Overground line,Zone 5,"Coombe Rd, Croydon CR0 5RF, UK",-0.059531571,51.35978931
+201,Coombe Lane,Overground line,Zone 6,"Coombe Rd, Croydon CR0 5RF, UK",-0.059531571,51.35978931
+202,Coulsdon South,Overground line,Zone 6,"Coulsdon CR5 3GP, UK",-0.13790309,51.31580094
+203,Coulsdon Town,Overground line,Zone 6,"Coulsdon CR5 2ND, UK",-0.134347057,51.32245295
+204,Covent Garden,Piccadilly line,Zone 1,"Long Acre, Charing Cross, London WC2E 9JT, UK",-0.124506895,51.51276023
+205,Crayford,Overground line,Zone 6,"Crayford, Dartford DA1 3PY, UK",0.178502716,51.44854676
+206,Crews Hill,Overground line,Zone 6,"Enfield EN2 9DS, UK",-0.106844101,51.68447461
+207,Cricklewood,Overground line,Zone 3,"Cricklewood, London NW2 1HL, UK",-0.212547934,51.55842267
+208,Crofton Park,Overground line,Zone 3,"Crofton Park, London SE4, UK",-0.036546582,51.45517929
+209,Crossharbour and London Arena,Overground line,Zone 2,"Isle of Dogs, London E14, UK",-0.014932813,51.49583998
+210,Crouch Hill,Overground line,Zone 3,"Finsbury Park, London N4 4AQ, UK",-0.117133285,51.5713271
+211,Croxley,Metropolitan line,Zone 7,"Croxley Station, Watford Rd, Croxley Green, Rickmansworth WD3 3DD, UK",-0.441603798,51.64700528
+212,Crystal Palace,Overground line,Zone 3,"London SE19 2AZ, UK",-0.072607233,51.41817035
+213,Crystal Palace,Overground line,Zone 4,"London SE19 2AZ, UK",-0.072607233,51.41817035
+214,Custom House,Overground line,Zone 3,"London E16, UK",0.02577251,51.50962206
+215,Cutty Sark for Maritime Greenwich,Overground line,Zone 2,"Greenwich, London SE10 9ED, UK",-0.010581867,51.48194447
+216,Cyprus,Overground line,Zone 3,"London, UK",0.063840756,51.50852658
+217,Dagenham Dock,Overground line,Zone 5,"Dagenham RM9 6PR, UK",0.145031014,51.5262872
+218,Dagenham East,District line,Zone 5,"House, King St, Dagenham, Maidstone ME15 6JQ, UK",0.165833432,51.54418734
+219,Dagenham Heathway,District line,Zone 5,"Heathway, Dagenham RM9 5AW, UK",0.14767972,51.54121179
+220,Dalston Junction,Overground line,Zone 2,"Dalston Ln, Dalston, London E8 3DE, UK",-0.074994205,51.54609372
+221,Dalston Kingsland,Overground line,Zone 2,"Dalston, London E8 2PA, UK",-0.076226922,51.54866782
+222,Debden,Central line (London Underground),Zone 6,"Loughton IG10, UK",0.083801475,51.645492
+223,Denmark Hill,Overground line,Zone 2,"Denmark Hill, London, UK",-0.09098787,51.46820064
+224,Deptford,Overground line,Zone 2,"Deptford, London SE8 4BZ, UK",-0.02619632,51.47889008
+225,Deptford Bridge,Overground line,Zone 2,"Deptford, London SE8, UK",-0.022052429,51.47447677
+226,Deptford Bridge,Overground line,Zone 3,"Deptford, London SE8, UK",-0.022052429,51.47447677
+227,Devons Road,Overground line,Zone 2,"London E3 3PJ, UK",-0.018007754,51.52225847
+228,Dollis Hill,Jubilee line,Zone 3,"Dollis Hill, London NW10 1NX, UK",-0.238797762,51.55185059
+229,Drayton Green,Overground line,Zone 4,"Drayton Green, West Ealing, London W13, UK",-0.32961126,51.51600468
+230,Drayton Park,Overground line,Zone 2,"London N5 1NS, UK",-0.1057702,51.55307831
+231,Dundonald Road,Overground line,Zone 3,"Wimbledon, London SW19 3SA, UK",-0.207527113,51.41739815
+232,Dundonald Road,Overground line,Zone 4,"Wimbledon, London SW19 3SA, UK",-0.207527113,51.41739815
+233,Dundonald Road,Overground line,Zone 5,"Wimbledon, London SW19 3SA, UK",-0.207527113,51.41739815
+234,Dundonald Road,Overground line,Zone 6,"Wimbledon, London SW19 3SA, UK",-0.207527113,51.41739815
+235,Ealing Broadway,Central line (London Underground),Zone 3,"Ealing, London W5, UK",-0.302010381,51.51486197
+236,Ealing Broadway,District line,Zone 3,"Ealing, London W5, UK",-0.302010381,51.51486197
+237,Ealing Common,District line,Zone 3,"Ealing Common, London W5, UK",-0.287151418,51.51024866
+238,Ealing Common,Piccadilly line,Zone 3,"Ealing Common, London W5, UK",-0.287151418,51.51024866
+239,Earls Court,District line,Zone 1,"Earl's Court, London SW5 9RB, UK",-0.194313809,51.49135667
+240,Earls Court,Piccadilly line,Zone 1,"Earl's Court, London SW5 9RB, UK",-0.194313809,51.49135667
+241,Earls Court,District line,Zone 2,"Earl's Court, London SW5 9RB, UK",-0.194313809,51.49135667
+242,Earls Court,Piccadilly line,Zone 2,"Earl's Court, London SW5 9RB, UK",-0.194313809,51.49135667
+243,Earlsfield,Overground line,Zone 3,"Earlsfield, London, UK",-0.187272689,51.44223881
+244,East Acton,Central line (London Underground),Zone 2,"London, UK",-0.248112225,51.51626341
+245,East Croydon,Overground line,Zone 5,"Croydon CR0 1LF, UK",-0.091863496,51.3757161
+246,East Dulwich,Overground line,Zone 2,"East Dulwich, London SE22, UK",-0.080436572,51.46162558
+247,East Finchley,Northern line,Zone 3,"High Rd, East Finchley, London N2 0NW, UK",-0.164743886,51.58733254
+248,East Ham,District line,Zone 3,"East Ham, London E6, UK",0.051516293,51.53924616
+249,East Ham,Hammersmith & City line,Zone 3,"East Ham, London E6, UK",0.051516293,51.53924616
+250,East Ham,District line,Zone 4,"East Ham, London E6, UK",0.051516293,51.53924616
+251,East Ham,Hammersmith & City line,Zone 4,"East Ham, London E6, UK",0.051516293,51.53924616
+252,East India,Overground line,Zone 2,"Poplar, London E14 2DP, UK",-0.002370332,51.50868401
+253,East India,Overground line,Zone 3,"Poplar, London E14 2DP, UK",-0.002370332,51.50868401
+254,East Putney,District line,Zone 2,"Putney, London SW15, UK",-0.210998234,51.45887978
+255,East Putney,District line,Zone 3,"Putney, London SW15, UK",-0.210998234,51.45887978
+256,Eastcote,Metropolitan line,Zone 5,"Field End Rd, Eastcote, Ruislip HA5 1QZ, UK",-0.396823299,51.57655182
+257,Eastcote,Piccadilly line,Zone 5,"Field End Rd, Eastcote, Ruislip HA5 1QZ, UK",-0.396823299,51.57655182
+258,Eden Park,Overground line,Zone 5,"Eden Park, Beckenham BR3 3DG, UK",-0.026669716,51.3907961
+259,Edgware,Northern line,Zone 5,"Edgware HA8, UK",-0.275093666,51.61422962
+260,Edgware Road (Bakerloo),Bakerloo line,Zone 1,"London W2, UK",-0.170539552,51.52064536
+261,Edgware Road (Circle/District/Hammersmith and City),Circle line (London Underground),Zone 1,"Chapel St, Marylebone, London NW1 5DH, UK",-0.167668254,51.51999804
+262,Edgware Road (Circle/District/Hammersmith and City),District line,Zone 1,"Chapel St, Marylebone, London NW1 5DH, UK",-0.167668254,51.51999804
+263,Edgware Road (Circle/District/Hammersmith and City),Hammersmith & City line,Zone 1,"Chapel St, Marylebone, London NW1 5DH, UK",-0.167668254,51.51999804
+264,Edmonton Green,Overground line,Zone 4,"Edmonton, London N9 0TQ, UK",-0.061639019,51.6251157
+265,Elephant and Castle,Bakerloo line,Zone 1,"Elephant and Castle, London of Freedom#8573311~!#, UK",-0.100738715,51.49584938
+266,Elephant and Castle,Northern line,Zone 1,"Elephant and Castle, London of Freedom#8573311~!#, UK",-0.100738715,51.49584938
+267,Elephant and Castle,Bakerloo line,Zone 2,"Elephant and Castle, London of Freedom#8573311~!#, UK",-0.100738715,51.49584938
+268,Elephant and Castle,Northern line,Zone 2,"Elephant and Castle, London of Freedom#8573311~!#, UK",-0.100738715,51.49584938
+269,Elm Park,District line,Zone 6,"Hornchurch RM12 4RN, UK",0.197252682,51.54912458
+270,Elmers End,Overground line,Zone 4,"Beckenham, UK",-0.049463832,51.39829111
+271,Elmstead Woods,Overground line,Zone 4,"Chislehurst BR7 5EG, UK",0.044229343,51.41708063
+272,Elstree and Borehamwood,Overground line,Zone 6,"Borehamwood WD6 3LS, UK",-0.279828619,51.65287558
+273,Eltham,Overground line,Zone 4,"Eltham, London SE9, UK",0.052329308,51.45566222
+274,Elverson Road,Overground line,Zone 2,"London SE8, UK",-0.016816376,51.46837219
+275,Elverson Road,Overground line,Zone 3,"London SE8, UK",-0.016816376,51.46837219
+276,Embankment,Bakerloo line,Zone 1,"Villiers St, Charing Cross, London WC2N 6NS, UK",-0.122367337,51.50731249
+277,Embankment,Circle line (London Underground),Zone 1,"Villiers St, Charing Cross, London WC2N 6NS, UK",-0.122367337,51.50731249
+278,Embankment,District line,Zone 1,"Villiers St, Charing Cross, London WC2N 6NS, UK",-0.122367337,51.50731249
+279,Embankment,Northern line,Zone 1,"Villiers St, Charing Cross, London WC2N 6NS, UK",-0.122367337,51.50731249
+280,Emerson Park,Overground line,Zone 6,"Hornchurch RM11 3HU, UK",0.220222934,51.56911491
+281,Enfield Chase,Overground line,Zone 5,"Enfield EN2 6SB, UK",-0.090704205,51.65272211
+282,Enfield Lock,Overground line,Zone 6,"Enfield EN3, UK",-0.02839107,51.67084612
+283,Enfield Town,Overground line,Zone 5,"Southbury Road, Greater London, Enfield EN1 1YX, UK",-0.079329922,51.65197007
+284,Epping,Central line (London Underground),Zone 6,"Epping CM16 4HW, UK",0.113825553,51.69368617
+285,Epsom Downs,Overground line,Zone 6,"Epsom Downs Station, Longdown Ln S, Epsom KT17 4JX, UK",-0.238970227,51.32365944
+286,Erith,Overground line,Zone 6,"Erith DA8 1TY, UK",0.174261289,51.48164768
+287,Essex Road,Overground line,Zone 2,"Essex Rd, London N1, UK",-0.096365526,51.54063331
+288,Euston,Northern line,Zone 1,"London NW1 2DS, UK",-0.133296472,51.52866433
+289,Euston,Victoria line,Zone 1,"London NW1 2DS, UK",-0.133296472,51.52866433
+290,Euston Square,Circle line (London Underground),Zone 1,"Fitzrovia, London NW1 2NG, UK",-0.133296472,51.52866433
+291,Euston Square,Hammersmith & City line,Zone 1,"Fitzrovia, London NW1 2NG, UK",-0.133296472,51.52866433
+292,Euston Square,Metropolitan line,Zone 1,"Fitzrovia, London NW1 2NG, UK",-0.133296472,51.52866433
+293,Ewell East,Overground line,Zone 6,"Station Approach, Cheam Rd, Epsom KT17 1QR, UK",-0.241503001,51.34524388
+294,Ewell West,Overground line,Zone 6,"Ewell, Epsom KT17 1DW, UK",-0.257089133,51.34999114
+295,Fairlop,Central line (London Underground),Zone 4,"Forest Rd, Ilford IG6 3HD, UK",0.090593279,51.59610954
+296,Falconwood,Overground line,Zone 4,"Falconwood, Welling DA16 2LY, UK",0.078509693,51.4590858
+297,Farringdon,Circle line (London Underground),Zone 1,"Farringdon, London, UK",-0.104843062,51.52019569
+298,Farringdon,Hammersmith & City line,Zone 1,"Farringdon, London, UK",-0.104843062,51.52019569
+299,Farringdon,Metropolitan line,Zone 1,"Farringdon, London, UK",-0.104843062,51.52019569
+300,Feltham,Overground line,Zone 6,"Feltham, UK",-0.409824481,51.44787917
+301,Fenchurch Street,Overground line,Zone 1,"London EC3M 4PB, UK",-0.078554153,51.51156671
+302,Fieldway,Overground line,Zone 3,"Croydon CR0 0QA, UK",-0.024503265,51.35131701
+303,Fieldway,Overground line,Zone 4,"Croydon CR0 0QA, UK",-0.024503265,51.35131701
+304,Fieldway,Overground line,Zone 5,"Croydon CR0 0QA, UK",-0.024503265,51.35131701
+305,Fieldway,Overground line,Zone 6,"Croydon CR0 0QA, UK",-0.024503265,51.35131701
+306,Finchley Central,Northern line,Zone 4,"Finchley, London N3, UK",-0.193220637,51.60090325
+307,Finchley Road,Jubilee line,Zone 2,"Finchley Rd, South Hampstead, London NW3 6OP, UK",-0.180050561,51.5470962
+308,Finchley Road,Metropolitan line,Zone 2,"Finchley Rd, South Hampstead, London NW3 6OP, UK",-0.180050561,51.5470962
+309,Finchley Road and Frognal,Overground line,Zone 2,"West Hampstead, London NW3 6EN, UK",-0.183651203,51.5501195
+310,Finsbury Park,Piccadilly line,Zone 2,"Station Pl, Finsbury Park, London N4 2DH, UK",-0.105881486,51.56463545
+311,Finsbury Park,Victoria line,Zone 2,"Station Pl, Finsbury Park, London N4 2DH, UK",-0.105881486,51.56463545
+312,Forest Gate,Overground line,Zone 3,"Forest Gate, London E7 0NE, UK",0.024189092,51.54931612
+313,Forest Hill,Overground line,Zone 3,"Forest Hill, London SE23 3HB, UK",-0.053328504,51.43930831
+314,Fulham Broadway,District line,Zone 2,"Fulham Rd, Fulham, London SW6 1BY, UK",-0.195544164,51.4802609
+315,Fulwell,Overground line,Zone 6,"128 Fulwell Rd, Teddington TW11 0RQ, UK",-0.349438525,51.43394257
+316,Gallions Reach,Overground line,Zone 3,"London E6 7AB, UK",0.071775394,51.50903414
+317,Gants Hill,Central line (London Underground),Zone 4,"Cranbrook Rd, Gants Hill, Ilford IG2 6UD, UK",0.066084098,51.57655295
+318,George Street,Overground line,Zone 3,"Croydon CR0 1PB, UK",-0.098718105,51.37396606
+319,George Street,Overground line,Zone 4,"Croydon CR0 1PB, UK",-0.098718105,51.37396606
+320,George Street,Overground line,Zone 5,"Croydon CR0 1PB, UK",-0.098718105,51.37396606
+321,George Street,Overground line,Zone 6,"Croydon CR0 1PB, UK",-0.098718105,51.37396606
+322,Gidea Park,Overground line,Zone 6,"Gidea Park, Romford RM2, UK",0.205976981,51.58186575
+323,Gipsy Hill,Overground line,Zone 3,"Gipsy Hill, London SE19 1PL, UK",-0.083835168,51.42446952
+324,Gloucester Road,Circle line (London Underground),Zone 1,"South Kensington, London SW7, UK",-0.18354356,51.49449956
+325,Gloucester Road,District line,Zone 1,"South Kensington, London SW7, UK",-0.18354356,51.49449956
+326,Gloucester Road,Piccadilly line,Zone 1,"South Kensington, London SW7, UK",-0.18354356,51.49449956
+327,Golders Green,Northern line,Zone 3,"Golders Green, London NW11 7NU, UK",-0.194834559,51.57221553
+328,Goldhawk Road,Circle line (London Underground),Zone 2,"Goldhawk Rd, Shepherd's Bush, London W12 8EG, UK",-0.227404006,51.50207697
+329,Goldhawk Road,Hammersmith & City line,Zone 2,"Goldhawk Rd, Shepherd's Bush, London W12 8EG, UK",-0.227404006,51.50207697
+330,Goodge Street,Northern line,Zone 1,"Bloomsbury, London W1T, UK",-0.13480769,51.52061311
+331,Goodmayes,Overground line,Zone 4,"Goodmayes, Ilford IG3 9UR, UK",0.111729654,51.56618098
+332,Gordon Hill,Overground line,Zone 5,"Enfield EN2 0QU, UK",-0.0944733,51.66350224
+333,Gospel Oak,Overground line,Zone 2,"Gospel Oak, London, UK",-0.151301033,51.55540529
+334,Grange Hill,Central line (London Underground),Zone 4,"Grange Cres, Chigwell IG7, UK",0.09227253,51.61348043
+335,Grange Park,Overground line,Zone 5,"Grange Park, London N21, UK",-0.097314424,51.64262308
+336,Gravel Hill,Overground line,Zone 3,"South Croydon, Croydon CR0 5BJ, UK",-0.043121699,51.35454326
+337,Gravel Hill,Overground line,Zone 4,"South Croydon, Croydon CR0 5BJ, UK",-0.043121699,51.35454326
+338,Gravel Hill,Overground line,Zone 5,"South Croydon, Croydon CR0 5BJ, UK",-0.043121699,51.35454326
+339,Gravel Hill,Overground line,Zone 6,"South Croydon, Croydon CR0 5BJ, UK",-0.043121699,51.35454326
+340,Great Portland Street,Circle line (London Underground),Zone 1,"London Underground Limited Great Portland Street Station, Great Portland St, Fitzrovia, London W1W 5PP, UK",-0.143961425,51.5237888
+341,Great Portland Street,Hammersmith & City line,Zone 1,"London Underground Limited Great Portland Street Station, Great Portland St, Fitzrovia, London W1W 5PP, UK",-0.143961425,51.5237888
+342,Great Portland Street,Metropolitan line,Zone 1,"London Underground Limited Great Portland Street Station, Great Portland St, Fitzrovia, London W1W 5PP, UK",-0.143961425,51.5237888
+343,Green Park,Jubilee line,Zone 1,"Green Park station, London W1J 9DZ, UK",-0.142477576,51.50676048
+344,Green Park,Piccadilly line,Zone 1,"Green Park station, London W1J 9DZ, UK",-0.142477576,51.50676048
+345,Green Park,Victoria line,Zone 1,"Green Park station, London W1J 9DZ, UK",-0.142477576,51.50676048
+346,Greenford,Central line (London Underground),Zone 4,"Oldfield Ln N, Greenford UB6 8PX, UK",-0.34587874,51.54198007
+347,Greenwich,Overground line,Zone 2,"Lambard House, Greenwich High Rd, Greenwich, London SE10 8JQ, UK",-0.014863084,51.47754766
+348,Greenwich,Overground line,Zone 3,"Lambard House, Greenwich High Rd, Greenwich, London SE10 8JQ, UK",-0.014863084,51.47754766
+349,Grove Park,Overground line,Zone 4,"Grove Park, London, UK",0.022598502,51.43043264
+350,Gunnersbury,District line,Zone 3,"Gunnersbury, London W4 5PT, UK",-0.275164136,51.49186341
+351,Hackbridge,Overground line,Zone 4,"Hackbridge, Wallington SM6 7BJ, UK",-0.153879198,51.3778609
+352,Hackney Central,Overground line,Zone 2,"off Amhurst Road, Hackney, London E8 1LL, UK",-0.055589512,51.54725744
+353,Hackney Downs,Overground line,Zone 2,"Hackney, London E8 1FD, UK",-0.060185105,51.54907809
+354,Hackney Wick,Overground line,Zone 2,"White Post Ln, Hackney Wick, London E9 5LN, UK",-0.025259503,51.54355841
+355,Hadley Wood,Overground line,Zone 6,"Hadley Wood, Barnet EN4 0EL, UK",-0.17658119,51.66840287
+356,Haggerston,Overground line,Zone 2,"Haggerston, London E8 4DY, UK",-0.075595258,51.53868473
+357,Hainault,Central line (London Underground),Zone 4,"Ilford IG6 3AA, UK",0.09410855,51.60284533
+358,Hammersmith (District),District line,Zone 2,"Hammersmith Broadway, Hammersmith, London W6 8AB, UK",-0.222860929,51.49181978
+359,Hammersmith (District),Piccadilly line,Zone 2,"Hammersmith Broadway, Hammersmith, London W6 8AB, UK",-0.222860929,51.49181978
+360,Hammersmith (Met.),Circle line (London Underground),Zone 2,"Hammersmith Broadway, Hammersmith, London W6 8AB, UK",-0.224640157,51.49348335
+361,Hammersmith (Met.),Hammersmith & City line,Zone 2,"Hammersmith Broadway, Hammersmith, London W6 8AB, UK",-0.224640157,51.49348335
+362,Hampstead,Northern line,Zone 2,"Hampstead High St, London NW3 1QG, UK",-0.17801456,51.5565426
+363,Hampstead Heath,Overground line,Zone 3,"Hampstead, London NW3 2QD, UK",-0.164566183,51.55519992
+364,Hampton,Overground line,Zone 6,"Hampton TW12, UK",-0.372135254,51.41587955
+365,Hampton Court,Overground line,Zone 6,"Molesey, East Molesey KT8 9AE, UK",-0.342757152,51.40229388
+366,Hampton Wick,Overground line,Zone 6,"Hampton Wick, UK",-0.31310361,51.41464004
+367,Hanger Lane,Central line (London Underground),Zone 3,"Hanger Ln, Hanger Hill, London W5 1DL, UK",-0.292996146,51.53007203
+368,Hanwell,Overground line,Zone 4,"Hanwell, London, UK",-0.338051884,51.51218596
+369,Harlesden,Bakerloo line,Zone 3,"London NW10 7AA, UK",-0.257495674,51.53625833
+370,Harold Wood,Overground line,Zone 6,"Harold Wood, Romford RM3 0PH, UK",0.234204073,51.59320222
+371,Harringay,Overground line,Zone 3,"Finsbury Park, London N4 1RE, UK",-0.105208253,51.57735791
+372,Harringay Green Lanes,Overground line,Zone 3,"Harringay, London N4 1DR, UK",-0.098217392,51.57714589
+373,Harrington Road,Overground line,Zone 3,"Harrington Rd, London SE25 4NF, UK",-0.060699955,51.39979057
+374,Harrington Road,Overground line,Zone 4,"Harrington Rd, London SE25 4NF, UK",-0.060699955,51.39979057
+375,Harrington Road,Overground line,Zone 5,"Harrington Rd, London SE25 4NF, UK",-0.060699955,51.39979057
+376,Harrington Road,Overground line,Zone 6,"Harrington Rd, London SE25 4NF, UK",-0.060699955,51.39979057
+377,Harrow and Wealdstone,Bakerloo line,Zone 5,"Harrow HA3 5AG, UK",-0.334252685,51.59259463
+378,Harrow-on-the-Hill,Metropolitan line,Zone 5,"Station Rd, Harrow HA1 1BB, UK",-0.337001517,51.57938812
+379,Hatch End,Overground line,Zone 6,"Hatch End, Pinner HA5 4HU, UK",-0.369178781,51.6098285
+380,Hatton Cross,Piccadilly line,Zone 5,"Great South-West Rd, Hounslow TW6 3PF, UK",-0.423380563,51.4666853
+381,Hatton Cross,Piccadilly line,Zone 6,"Great South-West Rd, Hounslow TW6 3PF, UK",-0.423380563,51.4666853
+382,Haydons Road,Overground line,Zone 3,"London SW19 8RP, UK",-0.188929359,51.42545732
+383,Hayes,Overground line,Zone 5,"Hayes, Bromley BR2, UK",0.010142652,51.37573671
+384,Hayes and Harlington,Overground line,Zone 5,"Hayes UB3 4BX, UK",-0.420641904,51.50304907
+385,Headstone Lane,Overground line,Zone 5,"Harrow, UK",-0.356907514,51.60249963
+386,Heathrow Terminal 4,Piccadilly line,Zone 6,"Hounslow TW6 3YD, UK",-0.44772959,51.45978043
+387,Heathrow Terminal 5,Piccadilly line,Zone 6,"Hounslow TW6 2NQ, UK",-0.490647503,51.47002543
+388,Heathrow Terminals 1 2 3,Piccadilly line,Zone 6,"Hounslow TW6, UK",-0.452407226,51.4712894
+389,Hendon,Overground line,Zone 3,"Edgware, London NW4 4PT, UK",-0.238630521,51.58007498
+390,Hendon,Overground line,Zone 4,"Edgware, London NW4 4PT, UK",-0.238630521,51.58007498
+391,Hendon Central,Northern line,Zone 3,"Hendon, London NW4 3AB, UK",-0.22673414,51.58313305
+392,Hendon Central,Northern line,Zone 4,"Hendon, London NW4 3AB, UK",-0.22673414,51.58313305
+393,Herne Hill,Overground line,Zone 2,"London SE24, UK",-0.102562908,51.45399137
+394,Herne Hill,Overground line,Zone 3,"London SE24, UK",-0.102562908,51.45399137
+395,Heron Quays,Overground line,Zone 2,"Isle of Dogs, London E14 8LA, UK",-0.021953532,51.50338657
+396,High Barnet,Northern line,Zone 5,"Barnet, UK",-0.19416538,51.65168825
+397,High Street Kensington,Circle line (London Underground),Zone 1,"Kensington High St, Kensington, London W8 5SA, UK",-0.191566058,51.50072945
+398,High Street Kensington,District line,Zone 1,"Kensington High St, Kensington, London W8 5SA, UK",-0.191566058,51.50072945
+399,Highams Park,Overground line,Zone 4,"Highams Park, London, UK",-0.000135286,51.60835599
+400,Highbury and Islington,Victoria line,Zone 2,"Highbury, London N7 8JA, UK",-0.10408214,51.54649551
+401,Highgate,Northern line,Zone 3,"Highgate, London N6, UK",-0.146934862,51.57764662
+402,Hillingdon,Metropolitan line,Zone 6,"Long Ln, Hillingdon, Uxbridge UB10 9NR, UK",-0.449897993,51.55377752
+403,Hillingdon,Piccadilly line,Zone 6,"Long Ln, Hillingdon, Uxbridge UB10 9NR, UK",-0.449897993,51.55377752
+404,Hither Green,Overground line,Zone 3,"Hither Green, London SE13 5NF, UK",-0.000970912,51.45240172
+405,Holborn,Central line (London Underground),Zone 1,"Kingsway, Holborn, London WC2B 6AA, UK",-0.119840507,51.51723574
+406,Holborn,Piccadilly line,Zone 1,"Kingsway, Holborn, London WC2B 6AA, UK",-0.119840507,51.51723574
+407,Holland Park,Central line (London Underground),Zone 2,"Lansdowne Rd, Notting Hill, London W11 3QZ, UK",-0.206557778,51.50714648
+408,Holloway Road,Piccadilly line,Zone 2,"Holloway Rd, London N7 8HS, UK",-0.112935697,51.5528161
+409,Homerton,Overground line,Zone 2,"Homerton, London E9 5SE, UK",-0.038512347,51.54659545
+410,Honor Oak Park,Overground line,Zone 3,"Honor Oak Park, Honor Oak, London SE23 1EB, UK",-0.044153121,51.45064824
+411,Hornchurch,District line,Zone 6,"Station Ln, Hornchurch RM12 6LL, UK",0.218926997,51.55435511
+412,Hornsey,Overground line,Zone 3,"Hornsey, London, UK",-0.111815638,51.58647485
+413,Hounslow,Overground line,Zone 5,"Maswell Park Rd, Hounslow TW3 2DL, UK",-0.361796256,51.46250482
+414,Hounslow Central,Piccadilly line,Zone 4,"Lampton Rd, Hounslow TW3 1JG, UK",-0.365958129,51.47092577
+415,Hounslow East,Piccadilly line,Zone 4,"Lampton, Hounslow TW3 1QB, UK",-0.355275322,51.47370789
+416,Hounslow West,Piccadilly line,Zone 5,"Hounslow TW4, UK",-0.385707629,51.47310572
+417,Hoxton,Overground line,Zone 1,"London, UK",-0.075585647,51.53139161
+418,Hoxton,Overground line,Zone 2,"London, UK",-0.075585647,51.53139161
+419,Hyde Park Corner,Piccadilly line,Zone 1,"Knightsbridge, London SW1X 7LY, UK",-0.152474114,51.50258401
+420,Ickenham,Metropolitan line,Zone 6,"Glebe Ave, Ickenham, Uxbridge UB10 8PD, UK",-0.441579513,51.56082505
+421,Ickenham,Piccadilly line,Zone 6,"Glebe Ave, Ickenham, Uxbridge UB10 8PD, UK",-0.441579513,51.56082505
+422,Ilford,Overground line,Zone 4,"Ilford, UK",0.068685191,51.55914224
+423,Imperial Wharf,Overground line,Zone 2,"Lockyer House, Hemans St, Chelsea Harbour, London SW8 4SR, UK",-0.182837505,51.47493893
+424,Island Gardens,Overground line,Zone 2,"Isle of Dogs, London E14, UK",-0.010493303,51.48795009
+425,Isleworth,Overground line,Zone 4,"Isleworth TW7, UK",-0.337328765,51.47503742
+426,Kenley,Overground line,Zone 6,"Kenley CR8 5DF, UK",-0.101219713,51.32460031
+427,Kennington,Northern line,Zone 2,"London SE11 4JQ, UK",-0.105070613,51.48866246
+428,Kensal Green,Bakerloo line,Zone 2,"Kensal Green, London, UK",-0.224713384,51.53052421
+429,Kensal Rise,Overground line,Zone 2,"Kensal Green, London NW10 5RU, UK",-0.220820979,51.53421506
+430,Kensington (Olympia),District line,Zone 2,"Hammersmith, London W14 0NE, UK",-0.210379242,51.4978797
+431,Kent House,Overground line,Zone 4,"Beckenham BR3, UK",-0.045815553,51.41271766
+432,Kentish Town,Northern line,Zone 2,"Kentish Town, London NW5 2AA, UK",-0.140471264,51.55000952
+433,Kentish Town West,Overground line,Zone 2,"Kentish Town, London NW5 3LT, UK",-0.14675641,51.54654797
+434,Kenton,Bakerloo line,Zone 4,"Kenton Rd, Harrow HA3 0AZ, UK",-0.315216867,51.58149628
+435,Kew Bridge,Overground line,Zone 3,"River Thames, Richmond W4 3NN, UK",-0.288846495,51.49000462
+436,Kew Gardens,District line,Zone 3,"Station Approach, London TW9 3BZ, UK",-0.285381011,51.47678914
+437,Kew Gardens,District line,Zone 4,"Station Approach, London TW9 3BZ, UK",-0.285381011,51.47678914
+438,Kidbrooke,Overground line,Zone 3,"London SE3 9PL, UK",0.028300239,51.46269019
+439,Kilburn,Jubilee line,Zone 2,"Shoot-Up Hill, West Hampstead, London NW6 7QL, UK",-0.204632719,51.54694444
+440,Kilburn High Road,Overground line,Zone 2,"Kilburn High Rd, North Maida Vale, London NW6 5UA, UK",-0.191113106,51.53726774
+441,Kilburn Park,Bakerloo line,Zone 2,"Cambridge Ave, North Maida Vale, London NW6 5AD, UK",-0.193966057,51.53513554
+442,King George V,Overground line,Zone 3,"Royal Docks, London E16 2TX, UK",0.062206214,51.50200861
+443,King Henry's Drive,Overground line,Zone 3,"New Addington, Croydon CR0 0LH, UK",-0.020264757,51.3453641
+444,King Henry's Drive,Overground line,Zone 4,"New Addington, Croydon CR0 0LH, UK",-0.020264757,51.3453641
+445,King Henry's Drive,Overground line,Zone 5,"New Addington, Croydon CR0 0LH, UK",-0.020264757,51.3453641
+446,King Henry's Drive,Overground line,Zone 6,"New Addington, Croydon CR0 0LH, UK",-0.020264757,51.3453641
+447,King's Cross,Overground line,Zone 1,"Euston Rd, Kings Cross, London N1 9AL, UK",-0.122756421,51.53079819
+448,Kings Cross St. Pancras,Circle line (London Underground),Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+449,Kings Cross St. Pancras,Hammersmith & City line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+450,Kings Cross St. Pancras,Metropolitan line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+451,Kings Cross St. Pancras,Northern line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+452,Kings Cross St. Pancras,Piccadilly line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+453,Kings Cross St. Pancras,Victoria line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.12387213,51.53031246
+454,Kingsbury,Jubilee line,Zone 4,"Kingsbury Rd, Kingsbury Circle, London NW9 9EG, UK",-0.278601608,51.58487652
+455,Kingston,Overground line,Zone 6,"Wood St, Kingston upon Thames KT1 1UJ, UK",-0.30114104,51.41264176
+456,Kingswood,Overground line,Zone 6,"Kingswood, Banstead, Tadworth KT20 6EN, UK",-0.211233226,51.29472314
+457,Knightsbridge,Piccadilly line,Zone 1,"Sloane St, Knightsbridge, London SW1X 9LA, UK",-0.160664486,51.5013549
+458,Knockholt,Overground line,Zone 6,"Old London Rd, Knockholt, Chelsfield, Sevenoaks TN14 7HR, UK",0.130831039,51.34575194
+459,Ladbroke Grove,Circle line (London Underground),Zone 2,"Ladbroke Grove, Notting Hill, London W10 6HJ, UK",-0.210198172,51.51721067
+460,Ladbroke Grove,Hammersmith & City line,Zone 2,"Ladbroke Grove, Notting Hill, London W10 6HJ, UK",-0.210198172,51.51721067
+461,Ladywell,Overground line,Zone 3,"Lewisham, London, UK",-0.019244401,51.45619214
+462,Lambeth North,Bakerloo line,Zone 1,"110 Westminster Bridge Rd, South Bank, London SE1 7XG, UK",-0.111768261,51.49912995
+463,Lancaster Gate,Central line (London Underground),Zone 1,"Bayswater Rd, Bayswater, London W2 2UE, UK",-0.175429929,51.51189094
+464,Langdon Park,Overground line,Zone 2,"Poplar, London E14 6GN, UK",-0.015213799,51.51888394
+465,Latimer Road,Circle line (London Underground),Zone 2,"Bramley Rd, Notting Hill, London W10 6SZ, UK",-0.217459666,51.5139581
+466,Latimer Road,Hammersmith & City line,Zone 2,"Bramley Rd, Notting Hill, London W10 6SZ, UK",-0.217459666,51.5139581
+467,Lea Bridge,Overground line,Zone 3,"Argall Way Lee Valley, Greater, Walthamstow, London E10 7PG, UK",-0.036683158,51.56663626
+468,Lebanon Road,Overground line,Zone 3,"Croydon CR0 5NL, UK",-0.084973649,51.375199
+469,Lebanon Road,Overground line,Zone 4,"Croydon CR0 5NL, UK",-0.084973649,51.375199
+470,Lebanon Road,Overground line,Zone 5,"Croydon CR0 5NL, UK",-0.084973649,51.375199
+471,Lebanon Road,Overground line,Zone 6,"Croydon CR0 5NL, UK",-0.084973649,51.375199
+472,Lee,Overground line,Zone 3,"Lee, London SE12 0AD, UK",0.013364692,51.44945852
+473,Leicester Square,Northern line,Zone 1,"[no name], West End, London WC2H 0AP, UK",-0.128242148,51.51129118
+474,Leicester Square,Piccadilly line,Zone 1,"[no name], West End, London WC2H 0AP, UK",-0.128242148,51.51129118
+475,Lewisham,Overground line,Zone 2,"London Borough of Lewisham, UK",-0.012432701,51.46488071
+476,Lewisham,Overground line,Zone 3,"London Borough of Lewisham, UK",-0.012432701,51.46488071
+477,Leyton,Central line (London Underground),Zone 3,"Leyton, London E10, UK",-0.006465332,51.55813227
+478,Leyton Midland Road,Overground line,Zone 3,"Midland Rd, London, Leyton E10 6JT, UK",-0.008066347,51.56936424
+479,Leytonstone,Central line (London Underground),Zone 3,"Church Ln, Leytonstone, London E11 1HE, UK",0.009140452,51.56852229
+480,Leytonstone,Central line (London Underground),Zone 4,"Church Ln, Leytonstone, London E11 1HE, UK",0.009140452,51.56852229
+481,Leytonstone High Road,Overground line,Zone 3,"High Rd, Leytonstone, London E11 4RE, UK",0.008254469,51.56380734
+482,Limehouse,Overground line,Zone 2,"Limehouse, London E14 7JE, UK",-0.039380078,51.51231216
+483,Liverpool Street,Central line (London Underground),Zone 1,"Liverpool St, London EC2M 7PY, UK",-0.082249622,51.51759826
+484,Liverpool Street,Circle line (London Underground),Zone 1,"Liverpool St, London EC2M 7PY, UK",-0.082249622,51.51759826
+485,Liverpool Street,Hammersmith & City line,Zone 1,"Liverpool St, London EC2M 7PY, UK",-0.082249622,51.51759826
+486,Liverpool Street,Metropolitan line,Zone 1,"Liverpool St, London EC2M 7PY, UK",-0.082249622,51.51759826
+487,Lloyd Park,Overground line,Zone 3,"Coombe Rd, Croydon CR0 5RA, UK",-0.080746273,51.36427554
+488,Lloyd Park,Overground line,Zone 4,"Coombe Rd, Croydon CR0 5RA, UK",-0.080746273,51.36427554
+489,Lloyd Park,Overground line,Zone 5,"Coombe Rd, Croydon CR0 5RA, UK",-0.080746273,51.36427554
+490,Lloyd Park,Overground line,Zone 6,"Coombe Rd, Croydon CR0 5RA, UK",-0.080746273,51.36427554
+491,London Bridge,Jubilee line,Zone 1,"Station Approach Rd, London SE1 9SP, UK",-0.086005598,51.50467435
+492,London Bridge,Northern line,Zone 1,"Station Approach Rd, London SE1 9SP, UK",-0.086005598,51.50467435
+493,London City Airport,Overground line,Zone 3,"Royal Docks, London E16 2DU, UK",0.047872715,51.50368966
+494,London Fields,Overground line,Zone 2,"Hackney, London E8 3PH, UK",-0.057699686,51.54071884
+495,Loughborough Junction,Overground line,Zone 2,"Brixton, London SW9 8SA, UK",-0.102497342,51.4666789
+496,Loughton,Central line (London Underground),Zone 6,"Loughton IG10, UK",0.055279079,51.64157048
+497,Lower Sydenham,Overground line,Zone 4,"Lower Sydenham, London SE26, UK",-0.033330342,51.42484684
+498,Maida Vale,Bakerloo line,Zone 2,"Elgin Ave, Maida Vale, London W9 1JS, UK",-0.185432647,51.52999506
+499,Malden Manor,Overground line,Zone 4,"Sheephouse Way, New Malden KT3 5PF, UK",-0.261120416,51.38460954
+500,Manor House,Piccadilly line,Zone 2,"318 Green Lanes, Finsbury Park, London N4 1BX, UK",-0.095684976,51.57074714
+501,Manor House,Piccadilly line,Zone 3,"318 Green Lanes, Finsbury Park, London N4 1BX, UK",-0.095684976,51.57074714
+502,Manor Park,Overground line,Zone 3,"Manor Park, London, UK",0.04572387,51.55285435
+503,Manor Park,Overground line,Zone 4,"Manor Park, London, UK",0.04572387,51.55285435
+504,Mansion House,Circle line (London Underground),Zone 1,"38 Cannon St, London EC4N 6JD, UK",-0.094197658,51.51209175
+505,Mansion House,District line,Zone 1,"38 Cannon St, London EC4N 6JD, UK",-0.094197658,51.51209175
+506,Marble Arch,Central line (London Underground),Zone 1,"Mayfair, London W1K 7AQ, UK",-0.158571216,51.51396549
+507,Maryland,Overground line,Zone 3,"London E15, UK",0.005681654,51.54566827
+508,Marylebone,Bakerloo line,Zone 1,"Melcombe Pl, Marylebone, London NW1 6JJ, UK",-0.163492564,51.52239667
+509,Maze Hill,Overground line,Zone 3,"London SE10 9XJ, UK",0.003204897,51.48301366
+510,Merton Park,Overground line,Zone 3,"London SW19 3AL, UK",-0.201342031,51.41339161
+511,Merton Park,Overground line,Zone 4,"London SW19 3AL, UK",-0.201342031,51.41339161
+512,Merton Park,Overground line,Zone 5,"London SW19 3AL, UK",-0.201342031,51.41339161
+513,Merton Park,Overground line,Zone 6,"London SW19 3AL, UK",-0.201342031,51.41339161
+514,Mile End,Central line (London Underground),Zone 2,"Mile End Rd, Mile End, London E3 4DH, UK",-0.032666084,51.52531097
+515,Mile End,District line,Zone 2,"Mile End Rd, Mile End, London E3 4DH, UK",-0.032666084,51.52531097
+516,Mile End,Hammersmith & City line,Zone 2,"Mile End Rd, Mile End, London E3 4DH, UK",-0.032666084,51.52531097
+517,Mill Hill Broadway,Overground line,Zone 4,"Station Rd, Mill Hill, London NW7 2JU, UK",-0.249537068,51.61287113
+518,Mill Hill East,Northern line,Zone 4,"London NW7 1BS, UK",-0.209895713,51.60831664
+519,Mitcham,Overground line,Zone 3,"Mitcham CR4 4HN, UK",-0.170871647,51.39748861
+520,Mitcham,Overground line,Zone 4,"Mitcham CR4 4HN, UK",-0.170871647,51.39748861
+521,Mitcham,Overground line,Zone 5,"Mitcham CR4 4HN, UK",-0.170871647,51.39748861
+522,Mitcham,Overground line,Zone 6,"Mitcham CR4 4HN, UK",-0.170871647,51.39748861
+523,Mitcham Eastfields,Overground line,Zone 3,"Mitcham CR4 2ND, UK",-0.154001719,51.40838391
+524,Mitcham Junction,Overground line,Zone 4,"Mitcham CR4 4HN, UK",-0.157436644,51.39304257
+525,Monument,Overground line,Zone 1,"King William St, Candlewick, London EC4R 9AA, UK",-0.086188314,51.51063042
+526,Moor Park,Metropolitan line,Zone 6,"Sandy Lodge Ln, Road, Rickmansworth, Northwood HA6 2JQ, UK",-0.432913027,51.62993067
+527,Moor Park,Metropolitan line,Zone 7,"Sandy Lodge Ln, Road, Rickmansworth, Northwood HA6 2JQ, UK",-0.432913027,51.62993067
+528,Moorgate,Circle line (London Underground),Zone 1,"London EC2Y 9AG, UK",-0.089017688,51.51843714
+529,Moorgate,Hammersmith & City line,Zone 1,"London EC2Y 9AG, UK",-0.089017688,51.51843714
+530,Moorgate,Metropolitan line,Zone 1,"London EC2Y 9AG, UK",-0.089017688,51.51843714
+531,Moorgate,Northern line,Zone 1,"London EC2Y 9AG, UK",-0.089017688,51.51843714
+532,Morden,Northern line,Zone 4,"London Rd, Morden SM4 5AZ, UK",-0.194851982,51.40218596
+533,Morden Road,Overground line,Zone 3,"London SW19 3BX, UK",-0.192805677,51.40887189
+534,Morden Road,Overground line,Zone 4,"London SW19 3BX, UK",-0.192805677,51.40887189
+535,Morden Road,Overground line,Zone 5,"London SW19 3BX, UK",-0.192805677,51.40887189
+536,Morden Road,Overground line,Zone 6,"London SW19 3BX, UK",-0.192805677,51.40887189
+537,Morden South,Overground line,Zone 4,"Morden SM4 5ZP, UK",-0.200301562,51.3963077
+538,Mornington Crescent,Northern line,Zone 2,"London NW1 2JA, UK",-0.13874435,51.53436222
+539,Mortlake,Overground line,Zone 3,"Mortlake, London SW14 8LL, UK",-0.267203314,51.46816794
+540,Motspur Park,Overground line,Zone 4,"Motspur Park, New Malden, London SW20, UK",-0.239439746,51.39531963
+541,Mottingham,Overground line,Zone 4,"Mottingham, London SE9, UK",0.050324202,51.43982498
+542,Mudchute,Overground line,Zone 2,"Spindrift Ave, Isle of Dogs, London E14 9ZT, UK",-0.014959945,51.49123619
+543,Neasden,Jubilee line,Zone 3,"London NW10 2UG, UK",-0.250115045,51.55462772
+544,New Addington,Overground line,Zone 3,"New Addington, Croydon CR0 0DE, UK",-0.017383327,51.34259051
+545,New Addington,Overground line,Zone 4,"New Addington, Croydon CR0 0DE, UK",-0.017383327,51.34259051
+546,New Addington,Overground line,Zone 5,"New Addington, Croydon CR0 0DE, UK",-0.017383327,51.34259051
+547,New Addington,Overground line,Zone 6,"New Addington, Croydon CR0 0DE, UK",-0.017383327,51.34259051
+548,New Barnet,Overground line,Zone 5,"New Barnet, Barnet EN5, UK",-0.172969714,51.64853677
+549,New Beckenham,Overground line,Zone 4,"Beckenham BR3, UK",-0.035304949,51.41670555
+550,New Cross,Overground line,Zone 2,"Amersham Vale, New Cross, London SE14 6LD, UK",-0.032278812,51.47642942
+551,New Cross Gate,Overground line,Zone 2,"New Cross Rd, New Cross, London SE14 6AR, UK",-0.039529052,51.47526493
+552,New Eltham,Overground line,Zone 4,"New Eltham, London, UK",0.070444618,51.43769066
+553,New Malden,Overground line,Zone 4,"Coombe Rd, New Malden KT3 4PX, UK",-0.256218106,51.40355591
+554,New Southgate,Overground line,Zone 4,"Arnos Grove, London N11, UK",-0.143009776,51.61409367
+555,Newbury Park,Central line (London Underground),Zone 4,"Newbury Park, Ilford IG2, UK",0.090303158,51.57563836
+556,Nine Elms,Overground line,Zone 1,"Battersea Park Rd, Nine Elms, London SW8 4BH, UK",-0.128500984,51.48000126
+557,Norbiton,Overground line,Zone 5,"Coombe Rd, Norbiton, Kingston upon Thames, West Norbiton KT2 7AZ, UK",-0.284199948,51.41190935
+558,Norbury,Overground line,Zone 3,"Norbury, London SW16, UK",-0.122799402,51.4111885
+559,North Acton,Central line (London Underground),Zone 2,"North Acton Station, London W3, UK",-0.259729528,51.52343243
+560,North Acton,Central line (London Underground),Zone 3,"North Acton Station, London W3, UK",-0.259729528,51.52343243
+561,North Dulwich,Overground line,Zone 2,"Dulwich, London, UK",-0.087918681,51.45448181
+562,North Dulwich,Overground line,Zone 3,"Dulwich, London, UK",-0.087918681,51.45448181
+563,North Ealing,Piccadilly line,Zone 3,"Station Rd, Hanger Hill, London W5 3AF, UK",-0.288993553,51.51762229
+564,North Greenwich,Jubilee line,Zone 2,"5 Millennium Way, Greenwich, London SE10 0PH, UK",0.003586259,51.50025515
+565,North Greenwich,Jubilee line,Zone 3,"5 Millennium Way, Greenwich, London SE10 0PH, UK",0.003586259,51.50025515
+566,North Harrow,Metropolitan line,Zone 5,"North Harrow, Harrow HA2 7SL, UK",-0.362632993,51.5846313
+567,North Sheen,Overground line,Zone 3,"Richmond TW9 4QQ, UK",-0.286397467,51.46541961
+568,North Wembley,Bakerloo line,Zone 4,"East Ln, Wembley HA9 7NT, UK",-0.303948219,51.56239629
+569,Northfields,Piccadilly line,Zone 3,"Northfield Ave, West Ealing, London W13 9QU, UK",-0.315064819,51.50049167
+570,Northolt,Central line (London Underground),Zone 5,"Northolt UB5, UK",-0.368440596,51.5482129
+571,Northolt Park,Overground line,Zone 5,"Northolt HA2 8JU, UK",-0.359434196,51.55761905
+572,Northumberland Park,Overground line,Zone 3,"Northumberland Park, London N17 0AG, UK",-0.054132026,51.60201573
+573,Northwick Park,Metropolitan line,Zone 4,"Northwick Ave, Harrow HA3 0AT, UK",-0.318199392,51.57850869
+574,Northwood,Metropolitan line,Zone 6,"Green Ln, Northwood HA6 2XL, UK",-0.423837787,51.61121361
+575,Northwood Hills,Metropolitan line,Zone 6,"Northwood Hills, Northwood HA6 1PA, UK",-0.409311358,51.60080265
+576,Norwood Junction,Overground line,Zone 4,"Station Rd, South Norwood, London SE25 5AG, UK",-0.075209857,51.39695432
+577,Notting Hill Gate,Central line (London Underground),Zone 1,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+578,Notting Hill Gate,Circle line (London Underground),Zone 1,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+579,Notting Hill Gate,District line,Zone 1,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+580,Notting Hill Gate,Central line (London Underground),Zone 2,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+581,Notting Hill Gate,Circle line (London Underground),Zone 2,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+582,Notting Hill Gate,District line,Zone 2,"Bayswater, London W11 3HS, UK",-0.195921618,51.50937534
+583,Nunhead,Overground line,Zone 2,"Nunhead, London SE15, UK",-0.053679743,51.46657998
+584,Oakleigh Park,Overground line,Zone 4,"New Barnet, Barnet N20 9RR, UK",-0.166194967,51.63767636
+585,Oakwood,Piccadilly line,Zone 5,"London N14 4UT, UK",-0.13185354,51.64763796
+586,Ockendon,Overground line,Zone 7,"South Ockendon RM15 6PD, UK",0.290483475,51.52198965
+587,Old Street,Northern line,Zone 1,"Old Street, London EC1Y 1BE, UK",-0.087622958,51.52558147
+588,Orpington,Overground line,Zone 6,"Orpington BR6, UK",0.089028901,51.37352005
+589,Osterley,Piccadilly line,Zone 4,"Isleworth TW7 4PX, UK",-0.352096096,51.48121681
+590,Oval,Northern line,Zone 2,"Oval, London, UK",-0.113321076,51.4814126
+591,Oxford Circus,Bakerloo line,Zone 1,"Oxford St, West End, London W1B 3AG, UK",-0.140836171,51.5152234
+592,Oxford Circus,Central line (London Underground),Zone 1,"Oxford St, West End, London W1B 3AG, UK",-0.140836171,51.5152234
+593,Oxford Circus,Victoria line,Zone 1,"Oxford St, West End, London W1B 3AG, UK",-0.140836171,51.5152234
+594,Paddington,Bakerloo line,Zone 1,"Praed St, Paddington, London W2, UK",-0.175736752,51.51539379
+595,Paddington,Circle line (London Underground),Zone 1,"Praed St, Paddington, London W2, UK",-0.175736752,51.51539379
+596,Paddington,District line,Zone 1,"Praed St, Paddington, London W2, UK",-0.175736752,51.51539379
+597,Paddington,Circle line (London Underground),Zone 1,"Praed St, Paddington, London W2, UK",-0.175736752,51.51539379
+598,Paddington,Hammersmith & City line,Zone 1,"Praed St, Paddington, London W2, UK",-0.175736752,51.51539379
+599,Palmers Green,Overground line,Zone 4,"Palmers Green, London N13, UK",-0.1102725,51.61878675
+600,Park Royal,Piccadilly line,Zone 3,"Western Ave, Hanger Hill, London W5 3EL, UK",-0.284928918,51.52683402
+601,Parsons Green,District line,Zone 2,"Fulham, London SW6, UK",-0.201124492,51.47496015
+602,Peckham Rye,Overground line,Zone 2,"Peckham Rye, London, UK",-0.069983553,51.46951136
+603,Penge East,Overground line,Zone 4,"London SE26 5PE, UK",-0.054495265,51.41997535
+604,Penge West,Overground line,Zone 4,"Anerley Park, London SE20 8NY, UK",-0.060645765,51.41806293
+605,Perivale,Central line (London Underground),Zone 4,"Perivale, Greenford UB6 8AR, UK",-0.323070422,51.53634182
+606,Petts Wood,Overground line,Zone 5,"Petts Wood, Orpington BR5 1LZ, UK",0.07448003,51.38859899
+607,Phipps Bridge,Overground line,Zone 3,"Mitcham CR4 3QN, UK",-0.182296789,51.40337673
+608,Phipps Bridge,Overground line,Zone 4,"Mitcham CR4 3QN, UK",-0.182296789,51.40337673
+609,Phipps Bridge,Overground line,Zone 5,"Mitcham CR4 3QN, UK",-0.182296789,51.40337673
+610,Phipps Bridge,Overground line,Zone 6,"Mitcham CR4 3QN, UK",-0.182296789,51.40337673
+611,Piccadilly Circus,Bakerloo line,Zone 1,"West End, London W1J 9HP, UK",-0.133711597,51.50969675
+612,Piccadilly Circus,Piccadilly line,Zone 1,"West End, London W1J 9HP, UK",-0.133711597,51.50969675
+613,Pimlico,Victoria line,Zone 1,"Pimlico, London SW1V, UK",-0.133108258,51.48955286
+614,Pinner,Metropolitan line,Zone 5,"Station Approach, Pinner HA5 5LZ, UK",-0.38122379,51.59236168
+615,Plaistow,District line,Zone 3,"Plaistow Rd, Plaistow, London E13 0DY, UK",0.017780642,51.53128834
+616,Plaistow,Hammersmith & City line,Zone 3,"Plaistow Rd, Plaistow, London E13 0DY, UK",0.017780642,51.53128834
+617,Plumstead,Overground line,Zone 4,"Plumstead, London SE18 7EA, UK",0.084299617,51.48979242
+618,Ponders End,Overground line,Zone 5,"Ponders End, Enfield, UK",-0.034525105,51.64273069
+619,Pontoon Dock,Overground line,Zone 3,"Royal Docks, London E16, UK",0.033325707,51.50221622
+620,Poplar,Overground line,Zone 2,"Poplar, London E14 0BQ, UK",-0.017275493,51.50758807
+621,Preston Road,Metropolitan line,Zone 4,"Wembley, Harrow HA9 9TW, UK",-0.294972013,51.57210373
+622,Prince Regent,Overground line,Zone 3,"Royal Docks, London E16 3HS, UK",0.033488574,51.50943455
+623,Pudding Mill Lane,Overground line,Zone 2,"London E15 2PH, UK",-0.012768512,51.53432785
+624,Pudding Mill Lane,Overground line,Zone 3,"London E15 2PH, UK",-0.012768512,51.53432785
+625,Purfleet,Overground line,Zone 7,"Purfleet RM19 1PP, UK",0.236774836,51.48117301
+626,Purley,Overground line,Zone 6,"Purley, UK",-0.113613518,51.33736355
+627,Purley Oaks,Overground line,Zone 6,"South Croydon CR2 0QD, UK",-0.098815333,51.34698934
+628,Putney,Overground line,Zone 2,"High St, Putney, London SW15 1RT, UK",-0.216603374,51.46095253
+629,Putney,Overground line,Zone 3,"High St, Putney, London SW15 1RT, UK",-0.216603374,51.46095253
+630,Putney Bridge,District line,Zone 2,"Putney Bridge Station, Station Approach, Fulham, London SW6 3UH, UK",-0.209365417,51.46786534
+631,Queens Park,Bakerloo line,Zone 2,"Queen's Park, London, UK",-0.204798149,51.53431265
+632,Queens Road Peckham,Overground line,Zone 2,"Peckham, London SE15, UK",-0.057354979,51.47428471
+633,Queensbury,Jubilee line,Zone 4,"Queensbury, Edgware, Stanmore, UK",-0.286331597,51.59388298
+634,Queenstown Road,Overground line,Zone 2,"Queenstown Rd, Nine Elms, London SW8 4LP, UK",-0.147355312,51.47495913
+635,Queensway,Central line (London Underground),Zone 1,"London, UK",-0.187419903,51.51044923
+636,Rainham,Overground line,Zone 6,"Rainham RM13, UK",0.190691975,51.51734052
+637,Ravensbourne,Overground line,Zone 4,"Beckenham BR3 5FH, UK",-0.006937816,51.41387038
+638,Ravenscourt Park,District line,Zone 2,"Ravenscourt Rd, Hammersmith, London W6 0UG, UK",-0.235969233,51.49406798
+639,Rayners Lane,Overground line,Zone 5,"Rayners Lane, Harrow, UK",-0.371060814,51.57539673
+640,Raynes Park,Metropolitan line,Zone 4,"Raynes Park, London SW20, UK",-0.229912939,51.40937535
+641,Raynes Park,Piccadilly line,Zone 4,"Raynes Park, London SW20, UK",-0.229912939,51.40937535
+642,Rectory Road,Overground line,Zone 2,"Evering Rd, London, Stoke Newington N16 7SJ, UK",-0.068385665,51.55876348
+643,Redbridge,Central line (London Underground),Zone 4,"Ilford IG4 5AN, UK",0.045394044,51.57636692
+644,Reedham,Overground line,Zone 6,"Purley CR8 4EU, UK",-0.123402624,51.33144171
+645,Reeves Corner,Overground line,Zone 3,"Croydon CR0 1XP, UK",-0.106379778,51.3752772
+646,Reeves Corner,Overground line,Zone 4,"Croydon CR0 1XP, UK",-0.106379778,51.3752772
+647,Reeves Corner,Overground line,Zone 5,"Croydon CR0 1XP, UK",-0.106379778,51.3752772
+648,Reeves Corner,Overground line,Zone 6,"Croydon CR0 1XP, UK",-0.106379778,51.3752772
+649,Regents Park,Bakerloo line,Zone 1,"London W1B 1PF, UK",-0.145344411,51.52381067
+650,Richmond,District line,Zone 4,"The Quadrant, Richmond TW9 1EZ, UK",-0.301739134,51.46323289
+651,Rickmansworth,Metropolitan line,Zone 7,"Rickmansworth WD3, UK",-0.473684584,51.64032301
+652,Riddlesdown,Overground line,Zone 6,"Purley CR8 1XL, UK",-0.099493667,51.33267483
+653,Roding Valley,Central line (London Underground),Zone 4,"Station Way, Buckhurst Hill IG9 6LN, UK",0.044026207,51.61695645
+654,Romford,Overground line,Zone 6,"Romford RM1 1TU, UK",0.183055272,51.57464159
+655,Rotherhithe,Overground line,Zone 2,"Rotherhithe, London, UK",-0.052966296,51.5015945
+656,Royal Albert,Overground line,Zone 3,"Royal Docks, London E16 2QD, UK",0.045177145,51.50849387
+657,Royal Oak,Circle line (London Underground),Zone 2,"London W2, UK",-0.188823674,51.51829435
+658,Royal Oak,Hammersmith & City line,Zone 2,"London W2, UK",-0.188823674,51.51829435
+659,Royal Victoria,Overground line,Zone 3,"Royal Docks, London E16 1LG, UK",0.017965413,51.50905524
+660,Ruislip,Metropolitan line,Zone 6,"Station Approach, Ruislip HA4 8LD, UK",-0.421234926,51.57216192
+661,Ruislip,Piccadilly line,Zone 6,"Station Approach, Ruislip HA4 8LD, UK",-0.421234926,51.57216192
+662,Ruislip Gardens,Central line (London Underground),Zone 5,"W End Rd, Ruislip HA4 6NF, UK",-0.409294111,51.55996018
+663,Ruislip Manor,Metropolitan line,Zone 6,"Victoria Rd, Ruislip Manor, Ruislip HA4 9AA, UK",-0.412849354,51.57345157
+664,Ruislip Manor,Piccadilly line,Zone 6,"Victoria Rd, Ruislip Manor, Ruislip HA4 9AA, UK",-0.412849354,51.57345157
+665,Russell Square,Piccadilly line,Zone 1,"Bloomsbury, London, UK",-0.124590198,51.52301304
+666,Sanderstead,Overground line,Zone 6,"Sanderstead, South Croydon CR2, UK",-0.0937085,51.34824625
+667,Sandilands,Overground line,Zone 3,"Addiscombe Rd, Croydon CR0 5PN, UK",-0.07802659,51.37502227
+668,Sandilands,Overground line,Zone 4,"Addiscombe Rd, Croydon CR0 5PN, UK",-0.07802659,51.37502227
+669,Sandilands,Overground line,Zone 5,"Addiscombe Rd, Croydon CR0 5PN, UK",-0.07802659,51.37502227
+670,Sandilands,Overground line,Zone 6,"Addiscombe Rd, Croydon CR0 5PN, UK",-0.07802659,51.37502227
+671,Selhurst,Overground line,Zone 4,"Selhurst, London SE25, UK",-0.089899037,51.39218577
+672,Seven Kings,Overground line,Zone 4,"Seven Kings, Ilford IG3 8RE, UK",0.096319575,51.56399335
+673,Seven Sisters,Victoria line,Zone 3,"Seven Sisters Rd, South Tottenham, London N15 5LD, UK",-0.072466823,51.58336216
+674,Shadwell,Overground line,Zone 2,"Cable St, Shadwell, London E1 2QF, UK",-0.056919207,51.51130016
+675,Shenfield,Overground line,Zone 7,"Shenfield, Brentwood CM15, UK",0.329952264,51.6308731
+676,Shepherds Bush,Central line (London Underground),Zone 2,"Holland Park, Shepherd's Bush, London W12 8ND, UK",-0.218519159,51.50453215
+677,Shepherds Bush Market,Circle line (London Underground),Zone 2,"Shepherd's Bush, London W12 8LH, UK",-0.227400493,51.50588071
+678,Shepherds Bush Market,Hammersmith & City line,Zone 2,"Shepherd's Bush, London W12 8LH, UK",-0.227400493,51.50588071
+679,Shoreditch High Street,Overground line,Zone 1,"Shoreditch High St, London, UK",-0.077087425,51.52346682
+680,Shortlands,Overground line,Zone 4,"Shortlands, Bromley, UK",0.002767544,51.40560237
+681,Sidcup,Overground line,Zone 5,"Sidcup, UK",0.103315359,51.43439846
+682,Silver Street,Overground line,Zone 4,"Edmonton, London N18 2UE, UK",-0.072589742,51.61524248
+683,Slade Green,Overground line,Zone 6,"Slade Green, Erith DA8 2NX, UK",0.190518388,51.46774766
+684,Sloane Square,Circle line (London Underground),Zone 1,"London, UK",-0.156488857,51.49235976
+685,Sloane Square,District line,Zone 1,"London, UK",-0.156488857,51.49235976
+686,Snaresbrook,Central line (London Underground),Zone 4,"Station Approach, Wanstead, London E11 1QE, UK",0.021463928,51.58089127
+687,South Acton,Overground line,Zone 3,"London W4 5ET, UK",-0.270215208,51.49968583
+688,South Bermondsey,Overground line,Zone 2,"South Bermondsey, London SE16 3LF, UK",-0.054754821,51.48767662
+689,South Croydon,Overground line,Zone 5,"South Croydon CR2 7PA, UK",-0.092517363,51.3627502
+690,South Ealing,Piccadilly line,Zone 3,"S Ealing Rd, Ealing, London W5 4QB, UK",-0.307040245,51.50164402
+691,South Greenford,Overground line,Zone 4,"Perivale, Greenford UB6, UK",-0.336737482,51.53402756
+692,South Hampstead,Overground line,Zone 2,"156 Loudoun Rd, London NW8 0DJ, UK",-0.1783712,51.54147685
+693,South Harrow,Piccadilly line,Zone 5,"Pentax House, S Hill Ave, South Harrow, Harrow HA2 0DU, UK",-0.351893971,51.56468017
+694,South Kensington,Circle line (London Underground),Zone 1,"South Kensington, London SW7 2ND, UK",-0.173923023,51.49407137
+695,South Kensington,District line,Zone 1,"South Kensington, London SW7 2ND, UK",-0.173923023,51.49407137
+696,South Kensington,Piccadilly line,Zone 1,"South Kensington, London SW7 2ND, UK",-0.173923023,51.49407137
+697,South Kenton,Bakerloo line,Zone 4,"Windermere Ave, Wembley, Preston HA9 8RD, UK",-0.308142977,51.57104445
+698,South Merton,Overground line,Zone 4,"Mostyn Rd, London SW20 9JT, UK",-0.205550301,51.40324056
+699,South Quay,Overground line,Zone 2,"District of Freedom#8573311~!#, Harbour Exchange Square, Isle of Dogs, London E14 9GQ, UK",-0.018460693,51.50086361
+700,South Ruislip,Central line (London Underground),Zone 5,"South Ruislip, Ruislip HA4, UK",-0.39911591,51.5568903
+701,South Tottenham,Overground line,Zone 3,"High Rd, London N15 6UJ, UK",-0.071855957,51.58040259
+702,South Wimbledon,Northern line,Zone 3,"South Wimbledon, London SW19, UK",-0.191974546,51.41536071
+703,South Wimbledon,Northern line,Zone 4,"South Wimbledon, London SW19, UK",-0.191974546,51.41536071
+704,South Woodford,Central line (London Underground),Zone 4,"George Ln, South Woodford, London E18 1JJ, UK",0.027943078,51.59155262
+705,Southall,Overground line,Zone 4,"The Straight, Southall UB2 4AA, UK",-0.37871119,51.50595691
+706,Southbury,Overground line,Zone 5,"Enfield EN3 4HW, UK",-0.052983311,51.64843373
+707,Southfields,District line,Zone 3,"Southfields, London SW19 6LL, UK",-0.206609386,51.44488331
+708,Southgate,Piccadilly line,Zone 4,"High St N, Osidge, London N14 5BH, UK",-0.127770047,51.63237585
+709,Southwark,Jubilee line,Zone 1,"68-70 Blackfriars Rd, South Bank, London SE1 8JZ, UK",-0.10579494,51.50385362
+710,St Helier,Overground line,Zone 4,"St Helier, Carshalton, Morden SM4, UK",-0.199014592,51.38991216
+711,St James Street,Overground line,Zone 3,"St James St, Walthamstow, London E17, UK",-0.032804562,51.58060866
+712,St Johns,Overground line,Zone 2,"London SE8 4EW, UK",-0.023240662,51.46897529
+713,St Margarets,Overground line,Zone 4,"St Margarets, Isleworth, UK",-0.321324248,51.45520599
+714,St Mary Cray,Overground line,Zone 6,"St Mary Cray, Orpington BR5 4AD, UK",0.1072179,51.39475941
+715,St Pancras,Overground line,Zone 1,"Euston Rd, Kings Cross, London N1C 4QP, UK",-0.125505782,51.5305544
+716,St. James's Park,Circle line (London Underground),Zone 1,"Westminster, London SW1H 0XA, UK",-0.133878755,51.49960979
+717,St. James's Park,District line,Zone 1,"Westminster, London SW1H 0XA, UK",-0.133878755,51.49960979
+718,St. Johns Wood,Jubilee line,Zone 2,"St John's Wood, London NW8 6DN, UK",-0.17406484,51.53485441
+719,St. Pauls,Central line (London Underground),Zone 1,"London EC4M, UK",-0.097571001,51.5148353
+720,Stamford Brook,District line,Zone 2,"London, UK",-0.24524631,51.49444997
+721,Stamford Hill,Overground line,Zone 3,"London N16 5AG, UK",-0.076668342,51.5744476
+722,Stanmore,Jubilee line,Zone 5,"Stanmore HA7 4PD, UK",-0.303099293,51.61967344
+723,Star Lane,Overground line,Zone 3,"London E16 4BL, UK",0.004191003,51.52060425
+724,Stepney Green,District line,Zone 2,"Bethnal Green, London E1 4DT, UK",-0.047382523,51.52199583
+725,Stepney Green,Hammersmith & City line,Zone 2,"Bethnal Green, London E1 4DT, UK",-0.047382523,51.52199583
+726,Stockwell,Northern line,Zone 2,"London SW4, UK",-0.122846304,51.47215926
+727,Stockwell,Victoria line,Zone 2,"London SW4, UK",-0.122846304,51.47215926
+728,Stoke Newington,Overground line,Zone 2,"Cazenove, London N16 6YA, UK",-0.072335395,51.56463761
+729,Stonebridge Park,Bakerloo line,Zone 3,"London NW10 0RW, UK",-0.275400442,51.54398655
+730,Stoneleigh,Overground line,Zone 5,"Stoneleigh, Epsom KT17 2JA, UK",-0.248709657,51.36336405
+731,Stratford,Central line (London Underground),Zone 3,"London E15 1XD, UK",-0.003751641,51.54169258
+732,Stratford,Jubilee line,Zone 3,"London E15 1XD, UK",-0.003751641,51.54169258
+733,Stratford High Street,Overground line,Zone 3,"London E15 3PA, UK",-0.001080356,51.53814895
+734,Stratford International,Overground line,Zone 3,"London E20, UK",-0.008778434,51.54480853
+735,Strawberry Hill,Overground line,Zone 5,"Twickenham TW2 5SQ, UK",-0.339617731,51.43974783
+736,Streatham,Overground line,Zone 3,"Streatham, London, UK",-0.132325497,51.42584586
+737,Streatham Common,Overground line,Zone 3,"Streatham, London SW16 5NT, UK",-0.135726165,51.41898467
+738,Streatham Hill,Overground line,Zone 3,"St Leonard's, London SW2 4PA, UK",-0.127681481,51.43846037
+739,Sudbury Hill,Piccadilly line,Zone 4,"Harrow HA1 3PJ, UK",-0.336392115,51.55733956
+740,Sudbury Hill Harrow,Overground line,Zone 4,"Harrow HA1 3RR, UK",-0.335446693,51.55834227
+741,Sudbury Town,Piccadilly line,Zone 4,"Greenford UB6 0QR, UK",-0.316343486,51.55139744
+742,Sudbury and Harrow Road,Overground line,Zone 4,"Wembley HA0 2NA, UK",-0.315926242,51.55449378
+743,Sundridge Park,Overground line,Zone 4,"Sundridge, Bromley BR1 3FZ, UK",0.020365109,51.4133938
+744,Surbiton,Overground line,Zone 6,"Victoria Rd, Surbiton KT6 4PE, UK",-0.30438456,51.39259953
+745,Surrey Quays,Overground line,Zone 2,"Surrey Quays, London SE16 7TE, UK",-0.047529988,51.49326686
+746,Sutton,Overground line,Zone 5,"High St, Sutton SM1 1JA, UK",-0.191302011,51.35950614
+747,Sutton Common,Overground line,Zone 4,"Sutton SM1 3JT, UK",-0.196919912,51.37555469
+748,Swiss Cottage,Jubilee line,Zone 2,"Swiss Cottage, London NW3 3NH, UK",-0.175626604,51.54303485
+749,Sydenham,Overground line,Zone 3,"London SE26 5EU, UK",-0.055088671,51.42734125
+750,Sydenham Hill,Overground line,Zone 3,"Dulwich, London SE21 7ND, UK",-0.080230208,51.43257589
+751,Syon Lane,Overground line,Zone 4,"Isleworth TW7, UK",-0.326495035,51.48147469
+752,Tadworth,Overground line,Zone 6,"Tadworth KT20 5SP, UK",-0.236008016,51.29162786
+753,Tattenham Corner,Overground line,Zone 6,"Tattenham Corner, Epsom KT18, UK",-0.242566273,51.30918131
+754,Teddington,Overground line,Zone 6,"Teddington TW11 0AZ, UK",-0.332705337,51.4244975
+755,Temple,Circle line (London Underground),Zone 1,"London WC2R 2PH, UK",-0.11372575,51.51104061
+756,Temple,District line,Zone 1,"London WC2R 2PH, UK",-0.11372575,51.51104061
+757,Thames Ditton,Overground line,Zone 6,"Thames Ditton KT7 0PD, UK",-0.338292838,51.38861607
+758,Theobalds Grove,Overground line,Zone 7,"Waltham Cross EN8 7BQ, UK",-0.034748134,51.69237259
+759,Therapia Lane,Overground line,Zone 3,"Croydon CR0 4UY, UK",-0.129017107,51.38568579
+760,Therapia Lane,Overground line,Zone 4,"Croydon CR0 4UY, UK",-0.129017107,51.38568579
+761,Therapia Lane,Overground line,Zone 5,"Croydon CR0 4UY, UK",-0.129017107,51.38568579
+762,Therapia Lane,Overground line,Zone 6,"Croydon CR0 4UY, UK",-0.129017107,51.38568579
+763,Theydon Bois,Central line (London Underground),Zone 6,"Coppice Row, Theydon Bois, Epping CM16 7EU, UK",0.102890736,51.67255208
+764,Thornton Heath,Overground line,Zone 4,"Thornton Heath, UK",-0.100433165,51.39848108
+765,Tolworth,Overground line,Zone 5,"Tolworth, Surbiton KT6, UK",-0.279620115,51.37684332
+766,Tooting,Overground line,Zone 3,"London Rd, Tooting, London SW17 9JR, UK",-0.161002472,51.41989663
+767,Tooting Bec,Northern line,Zone 3,"Tooting Bec, London SW17, UK",-0.159700492,51.43583806
+768,Tooting Broadway,Northern line,Zone 3,"Tooting High St, Tooting, London SW17 0SU, UK",-0.168684527,51.42704914
+769,Tottenham Court Road,Central line (London Underground),Zone 1,"Oxford St, West End, London WC1A 1DU, UK",-0.131110439,51.51621087
+770,Tottenham Court Road,Northern line,Zone 1,"Oxford St, West End, London WC1A 1DU, UK",-0.131110439,51.51621087
+771,Tottenham Hale,Victoria line,Zone 3,"Tottenham Hale, London N17, UK",-0.060187823,51.58799778
+772,Totteridge and Whetstone,Northern line,Zone 4,"Totteridge Ln, Whetstone, London N20 0HD, UK",-0.179354263,51.63024672
+773,Tower Gateway,Overground line,Zone 1,"Goodman's Yard, Tower, London E1 8AT, UK",-0.074409877,51.51039264
+774,Tower Hill,Circle line (London Underground),Zone 1,"London EC3N, UK",-0.076701198,51.51039427
+775,Tower Hill,District line,Zone 1,"London EC3N, UK",-0.076701198,51.51039427
+776,Tufnell Park,Northern line,Zone 2,"Tufnell Park, London N19 5BQ, UK",-0.137742175,51.5564408
+777,Tulse Hill,Overground line,Zone 3,"Tulse Hill, London SW2, UK",-0.105122509,51.43979743
+778,Turkey Street,Overground line,Zone 6,"Enfield EN3 5TN, UK",-0.047229931,51.67265366
+779,Turnham Green,District line,Zone 2,"Chiswick, London W4, UK",-0.254524568,51.49518194
+780,Turnham Green,Piccadilly line,Zone 2,"Chiswick, London W4, UK",-0.254524568,51.49518194
+781,Turnpike Lane,Piccadilly line,Zone 3,"Westbury Ave, Wood Green, London N15 3NX, UK",-0.102805041,51.59035813
+782,Twickenham,Overground line,Zone 5,"London Rd, Twickenham TW1 1BD, UK",-0.328860226,51.45025095
+783,Upminster,District line,Zone 6,"Station Rd, Upminster RM14 2TD, UK",0.251400801,51.55876336
+784,Upminster Bridge,District line,Zone 6,"Upminster Rd, Hornchurch RM12 6PL, UK",0.234541889,51.5577188
+785,Upney,District line,Zone 4,"Upney Ln, Barking IG11 9LS, UK",0.101531744,51.53840565
+786,Upper Holloway,Overground line,Zone 2,"Holloway Road, Upper Holloway, London, Greater London N19 4DJ, UK",-0.129109364,51.5636233
+787,Upper Warlingham,Overground line,Zone 6,"Warlingham, Whyteleafe CR3 0EP, UK",-0.077481662,51.30877225
+788,Upton Park,District line,Zone 3,"Green St, Upton Park, London E13 9AP, UK",0.03454184,51.5366282
+789,Upton Park,Hammersmith & City line,Zone 3,"Green St, Upton Park, London E13 9AP, UK",0.03454184,51.5366282
+790,Uxbridge,Metropolitan line,Zone 6,"High St, Uxbridge UB8 1JZ, UK",-0.47710156,51.54645451
+791,Uxbridge,Piccadilly line,Zone 6,"High St, Uxbridge UB8 1JZ, UK",-0.47710156,51.54645451
+792,Vauxhall,Victoria line,Zone 1,"S Lambeth Rd, Vauxhall, London SW8 1SS, UK",-0.123829953,51.4857358
+793,Vauxhall,Victoria line,Zone 2,"S Lambeth Rd, Vauxhall, London SW8 1SS, UK",-0.123829953,51.4857358
+794,Victoria,Circle line (London Underground),Zone 1,"Victoria St, Victoria, London SW1E 5ND, UK",-0.143920706,51.49642395
+795,Victoria,District line,Zone 1,"Victoria St, Victoria, London SW1E 5ND, UK",-0.143920706,51.49642395
+796,Victoria,Victoria line,Zone 1,"Victoria St, Victoria, London SW1E 5ND, UK",-0.143920706,51.49642395
+797,Waddon,Overground line,Zone 5,"Epsom Rd, Waddon, Croydon CR0 4UP, UK",-0.117394077,51.36737926
+798,Waddon Marsh,Overground line,Zone 3,"Croydon CR0 4XT, UK",-0.117987465,51.37708295
+799,Waddon Marsh,Overground line,Zone 4,"Croydon CR0 4XT, UK",-0.117987465,51.37708295
+800,Waddon Marsh,Overground line,Zone 5,"Croydon CR0 4XT, UK",-0.117987465,51.37708295
+801,Waddon Marsh,Overground line,Zone 6,"Croydon CR0 4XT, UK",-0.117987465,51.37708295
+802,Wallington,Overground line,Zone 5,"Wallington, UK",-0.150863835,51.36033154
+803,Waltham Cross,Overground line,Zone 7,"Waltham Cross EN8 7LU, UK",-0.026564257,51.68525726
+804,Walthamstow Central,Victoria line,Zone 3,"Walthamstow Central Station BR, Hoe St, Walthamstow, London E17 7LP, UK",-0.019940545,51.58301811
+805,Walthamstow Queens Road,Overground line,Zone 3,"Walthamstow, London E17 7QJ, UK",-0.023843943,51.58154619
+806,Wandle Park,Overground line,Zone 3,"Vicarage Road, Croydon, Greater London CR0 4JS, UK",-0.113253321,51.37340072
+807,Wandle Park,Overground line,Zone 4,"Vicarage Road, Croydon, Greater London CR0 4JS, UK",-0.113253321,51.37340072
+808,Wandle Park,Overground line,Zone 5,"Vicarage Road, Croydon, Greater London CR0 4JS, UK",-0.113253321,51.37340072
+809,Wandle Park,Overground line,Zone 6,"Vicarage Road, Croydon, Greater London CR0 4JS, UK",-0.113253321,51.37340072
+810,Wandsworth Common,Overground line,Zone 3,"London, UK",-0.163536981,51.4463656
+811,Wandsworth Road,Overground line,Zone 2,"Brayburne Ave, Clapham Town, London SW4 6AD, UK",-0.139037676,51.4702232
+812,Wandsworth Town,Overground line,Zone 2,"London Borough of Wandsworth, London, UK",-0.187910038,51.46103408
+813,Wanstead,Central line (London Underground),Zone 4,"Wanstead, London E11, UK",0.028760472,51.57490215
+814,Wanstead Park,Overground line,Zone 3,"Woodgrange Rd, Forest Gate, London E7 0HX, UK",0.026389943,51.55177808
+815,Wapping,Overground line,Zone 2,"Meeting House Alley Poplar, St Katharine's & Wapping, London E1W 3PA, UK",-0.055860815,51.50434032
+816,Warren Street,Northern line,Zone 1,"Bloomsbury, London NW1 3AA, UK",-0.138278332,51.52457999
+817,Warren Street,Victoria line,Zone 1,"Bloomsbury, London NW1 3AA, UK",-0.138278332,51.52457999
+818,Warwick Avenue,Bakerloo line,Zone 2,"Warwick Ave, Little Venice, London W9 2PT, UK",-0.182953293,51.52310444
+819,Waterloo,Overground line,Zone 1,"Waterloo Rd, South Bank, London SE1 8SW, UK",-0.113259252,51.50314664
+820,Waterloo East,Bakerloo line,Zone 1,"Sandell St, South Bank, London SE1 8TG, UK",-0.109153638,51.50416861
+821,Waterloo East,Jubilee line,Zone 1,"Sandell St, South Bank, London SE1 8TG, UK",-0.109153638,51.50416861
+822,Waterloo East,Northern line,Zone 1,"Sandell St, South Bank, London SE1 8TG, UK",-0.109153638,51.50416861
+823,Waterloo East,Waterloo & City line,Zone 1,"Sandell St, South Bank, London SE1 8TG, UK",-0.109153638,51.50416861
+824,Watford,Metropolitan line,Zone 7,"Station Rd, Watford WD17 1SR, UK",-0.417270007,51.6576051
+825,Watford High Street,Overground line,Zone 8,"Watford WD17 2NW, UK",-0.391696729,51.6526537
+826,Wellesley Road,Overground line,Zone 3,"Croydon CR9 2UL, UK",-0.097524909,51.37536754
+827,Wellesley Road,Overground line,Zone 4,"Croydon CR9 2UL, UK",-0.097524909,51.37536754
+828,Wellesley Road,Overground line,Zone 5,"Croydon CR9 2UL, UK",-0.097524909,51.37536754
+829,Wellesley Road,Overground line,Zone 6,"Croydon CR9 2UL, UK",-0.097524909,51.37536754
+830,Welling,Overground line,Zone 4,"Welling, UK",0.101775038,51.46477709
+831,Wembley Central,Bakerloo line,Zone 4,"High Rd, Wembley HA9 7FA, UK",-0.296392327,51.55186478
+832,Wembley Park,Jubilee line,Zone 4,"Wembley Park, Wembley HA9 9AA, UK",-0.279242553,51.56332246
+833,Wembley Park,Metropolitan line,Zone 4,"Wembley Park, Wembley HA9 9AA, UK",-0.279242553,51.56332246
+834,Wembley Stadium,Overground line,Zone 4,"117 Preston Rd, Wembley HA9 8NN, UK",-0.286046447,51.55465457
+835,West Acton,Central line (London Underground),Zone 3,"West Acton, London W3, UK",-0.280657175,51.51777015
+836,West Brompton,District line,Zone 2,"Kensington, London SW5 9JX, UK",-0.195538812,51.48732891
+837,West Croydon,Overground line,Zone 5,"London Rd, Croydon CR0 2TA, UK",-0.102034293,51.37855217
+838,West Drayton,Overground line,Zone 6,"West Drayton, UK",-0.472176097,51.51007122
+839,West Dulwich,Overground line,Zone 3,"West Dulwich, London, UK",-0.090672676,51.44091182
+840,West Ealing,Overground line,Zone 3,"West Ealing, London, UK",-0.319782955,51.51362521
+841,West Finchley,Northern line,Zone 4,"Nether St, London N3 1NT, UK",-0.18891711,51.60926273
+842,West Ham,District line,Zone 3,"Manor Rd, London E15 3BN, UK",0.005317394,51.52852552
+843,West Ham,Hammersmith & City line,Zone 3,"Manor Rd, London E15 3BN, UK",0.005317394,51.52852552
+844,West Ham,Jubilee line,Zone 3,"Manor Rd, London E15 3BN, UK",0.005317394,51.52852552
+845,West Hampstead,Jubilee line,Zone 2,"W End Ln, West Hampstead, London NW6 2LJ, UK",-0.191126586,51.54747433
+846,West Hampstead Thameslink,Overground line,Zone 2,"West Hampstead, London NW6 2HX, UK",-0.19253752,51.54862912
+847,West Harrow,Metropolitan line,Zone 5,"Vaughan Rd, Harrow HA1 4HE, UK",-0.353846697,51.57892424
+848,West India Quay,Overground line,Zone 2,"Canary Wharf, London E14 5EL, UK",-0.020582447,51.50676266
+849,West Kensington,District line,Zone 2,"West Kensington, London W14, UK",-0.206203695,51.49010936
+850,West Norwood,Overground line,Zone 3,"West Norwood, London, UK",-0.103189135,51.43124112
+851,West Ruislip,Central line (London Underground),Zone 6,"Ruislip UB10, UK",-0.437860146,51.56958787
+852,West Silvertown,Overground line,Zone 3,"Royal Docks, London E16 2AT, UK",0.022246047,51.50288443
+853,West Sutton,Overground line,Zone 5,"Sutton SM1, UK",-0.204644548,51.36615014
+854,West Wickham,Overground line,Zone 5,"West Wickham, UK",-0.01457633,51.3812842
+855,Westbourne Park,Circle line (London Underground),Zone 2,"Western Rd, Notting Hill, London W11 1AB, UK",-0.200882515,51.52098884
+856,Westbourne Park,Hammersmith & City line,Zone 2,"Western Rd, Notting Hill, London W11 1AB, UK",-0.200882515,51.52098884
+857,Westcombe Park,Overground line,Zone 3,"London SE3 7EG, UK",0.0177457,51.4845089
+858,Westferry,Overground line,Zone 2,"Poplar, London E14, UK",-0.026323137,51.50963815
+859,Westminster,Circle line (London Underground),Zone 1,"Westminster, London SW1A 2JR, UK",-0.125002079,51.50140159
+860,Westminster,District line,Zone 1,"Westminster, London SW1A 2JR, UK",-0.125002079,51.50140159
+861,Westminster,Jubilee line,Zone 1,"Westminster, London SW1A 2JR, UK",-0.125002079,51.50140159
+862,White City,Central line (London Underground),Zone 2,"Wood Ln, Shepherd's Bush, London W12 7RH, UK",-0.224631931,51.51223244
+863,White Hart Lane,Overground line,Zone 3,"White Hart Ln, Tottenham, London N17 8HH, UK",-0.070870327,51.60503477
+864,Whitechapel,District line,Zone 2,"277 Whitechapel Rd, Shadwell, London E1 1BY, UK",-0.059420485,51.51958779
+865,Whitechapel,Hammersmith & City line,Zone 2,"277 Whitechapel Rd, Shadwell, London E1 1BY, UK",-0.059420485,51.51958779
+866,Whitton,Overground line,Zone 5,"High Street Whitton, Twickenham TW2 7LG, UK",-0.357682061,51.44958819
+867,Whyteleafe,Overground line,Zone 6,"Warlingham, Whyteleafe CR3 0XB, UK",-0.081135165,51.30992932
+868,Whyteleafe South,Overground line,Zone 6,"Whyteleafe CR3 0AL, UK",-0.076712515,51.3034898
+869,Willesden Green,Jubilee line,Zone 2,"Willesden, London, UK",-0.222407604,51.54937329
+870,Willesden Green,Jubilee line,Zone 3,"Willesden, London, UK",-0.222407604,51.54937329
+871,Willesden Junction,Bakerloo line,Zone 3,"Station Approach, London, Harlesden NW10 4UY, UK",-0.243909143,51.53223396
+872,Wimbledon,District line,Zone 3,"Wimbledon, London SW19 7NL, UK",-0.206662836,51.42110784
+873,Wimbledon Chase,Overground line,Zone 3,"Kingston Rd, Wimbledon Chase, London SW20 8JT, UK",-0.21408977,51.40953093
+874,Wimbledon Park,District line,Zone 3,"Arthur Rd, Wimbledon, London SW19 8AB, UK",-0.199186275,51.43458095
+875,Winchmore Hill,Overground line,Zone 4,"Station Rd, Winchmore Hill, London N21 3NG, UK",-0.100916933,51.63388686
+876,Wood Green,Piccadilly line,Zone 3,"Wood Green, London N22, UK",-0.109526589,51.59745373
+877,Wood Lane,Circle line (London Underground),Zone 2,"Shepherd's Bush, London W12 7FX, UK",-0.224472609,51.50965819
+878,Wood Lane,Hammersmith & City line,Zone 2,"Shepherd's Bush, London W12 7FX, UK",-0.224472609,51.50965819
+879,Wood Street,Overground line,Zone 4,"Walthamstow, London E17 3NZ, UK",-0.001953898,51.58666994
+880,Woodford,Central line (London Underground),Zone 4,"Woodford, UK",0.034056202,51.60720184
+881,Woodgrange Park,Overground line,Zone 3,"Manor Park, London E12 5AD, UK",0.044572496,51.54905254
+882,Woodgrange Park,Overground line,Zone 4,"Manor Park, London E12 5AD, UK",0.044572496,51.54905254
+883,Woodmansterne,Overground line,Zone 6,"Coulsdon CR5 3HY, UK",-0.154262129,51.31901858
+884,Woodside,Overground line,Zone 3,"Spring Ln, Croydon SE25 5DP, UK",-0.065347178,51.38709768
+885,Woodside,Overground line,Zone 4,"Spring Ln, Croydon SE25 5DP, UK",-0.065347178,51.38709768
+886,Woodside,Overground line,Zone 5,"Spring Ln, Croydon SE25 5DP, UK",-0.065347178,51.38709768
+887,Woodside,Overground line,Zone 6,"Spring Ln, Croydon SE25 5DP, UK",-0.065347178,51.38709768
+888,Woodside Park,Northern line,Zone 4,"Woodside Park Rd, London N12 8RT, UK",-0.185425505,51.6178684
+889,Woolwich,Overground line,Zone 4,"Woolwich New Rd, Woolwich, London SE18 6EU, UK",0.071819378,51.49157837
+890,Woolwich Arsenal,Overground line,Zone 4,"Woolwich New Rd, Woolwich, London SE18 6EU, UK",0.069193906,51.48990712
+891,Woolwich Dockyard,Overground line,Zone 3,"Woolwich, London SE18 5JY, UK",0.054612348,51.49110779
+892,Worcester Park,Overground line,Zone 4,"Worcester Park KT4 7NB, UK",-0.245575292,51.38110449
